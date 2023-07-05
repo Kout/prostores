@@ -1,3 +1,5 @@
+const i18n = require('eleventy-plugin-i18n');
+
 // Filters
 // const dateFilter = require('./src/filters/date-filter.js');
 // const timeFilter = require('./src/filters/time-filter.js');
