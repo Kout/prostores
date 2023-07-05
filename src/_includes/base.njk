@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="{{ locale }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prostores z. s.</title>
+    <style>
+        body {
+            font-family: sans-serif;
+        }
+
+        address {
+            font-style: normal;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="/img/logo-icebreaking-A.png" alt="Icebreaking" width="800" height="393">
+    </header>
+
+    <main>
+        {{ content | safe }}
+    </main>
+
+    <footer>
+        ⓒ <time datetime="2023-07-05">2023</time> Prostores z. s.
+    </footer>
+</body>
+</html>

@@ -20,6 +20,8 @@ module.exports = config => {
     // config.addFilter('timeFilter', timeFilter);
     // config.addFilter('w3DateFilter', w3DateFilter);
 
+    config.addPassthroughCopy('./src/img/');
+
     // config.addShortcode("year", () => `${new Date().getFullYear()}`);
 
     // config.addShortcode("now", () => `${Date.now()}`);
