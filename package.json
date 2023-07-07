@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Webová vizitka zapsaného spolku.",
   "main": "index.js",
+  "engines": {
+    "node": ">= 16"
+  },
   "scripts": {
     "prestart": "del-cli _site/*",
     "start": "npx @11ty/eleventy --serve",
