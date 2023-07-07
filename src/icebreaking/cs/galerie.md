@@ -1,6 +1,7 @@
 ---
 layout: base.njk
-title: Icebreaking
+title: Galerie
+equivalent: gallery
 ---
 
 # {{ title }}
