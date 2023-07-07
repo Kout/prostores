@@ -7,12 +7,13 @@ const i18n = require('eleventy-plugin-i18n');
 
 const markdownIt = require('markdown-it');
 const markdownItAttrs = require('markdown-it-attrs');
+const markdownItDeflist = require('markdown-it-deflist');
 const markdownItOptions = {
   html: true,
   breaks: true,
   linkify: true
 }
-const markdownLib = markdownIt(markdownItOptions).use(markdownItAttrs)
+const markdownLib = markdownIt(markdownItOptions).use(markdownItAttrs).use(markdownItDeflist)
 
 module.exports = config => {
     // Add filters
@@ -29,7 +30,7 @@ module.exports = config => {
     // Tell 11ty to use the .eleventyignore and ignore our .gitignore file
     config.setUseGitIgnore(false);
 
-    // config.setLibrary('md', markdownLib)
+    config.setLibrary('md', markdownLib)
 
     return {
         markdownTemplateEngine: 'njk',
