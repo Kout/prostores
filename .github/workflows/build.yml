@@ -29,6 +29,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3.8.0
         with:
+          deploy_key: ${{ secrets.11ty_ACTION }}
           # github_token: ${{ secrets.GITHUB_TOKEN }}
           #publish_dir is the folder on the docker instance which eleventy builds the pages to.
           #it is not the docs folder in the repository
