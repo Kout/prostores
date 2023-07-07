@@ -4,14 +4,17 @@
   "description": "Webová vizitka zapsaného spolku.",
   "main": "index.js",
   "scripts": {
+    "prestart": "del-cli _site/*",
     "start": "npx @11ty/eleventy --serve",
+    "prebuild": "del-cli _site/*",
     "build": "npx @11ty/eleventy"
   },
   "keywords": [],
   "author": "Tomáš Kout",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.1"
+    "@11ty/eleventy": "^2.0.1",
+    "del-cli": "^5.0.0"
   },
   "dependencies": {
     "eleventy-plugin-i18n": "^0.1.3",
