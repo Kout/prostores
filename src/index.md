@@ -4,8 +4,8 @@ title: Prostores z. s.
 ---
 <address>
 
-Na lužci 215/16 <br>
-Praha 6 – Vokovice <br>
+Na lužci 215/16 
+Praha 6 – Vokovice
 160 00
 
 IČ: 22604901

@@ -1,34 +1,45 @@
-body {
-    font-family: sans-serif;
-}
+@layer reset, openprops, base, custom;
 
-address {
-    font-style: normal;
-}
+@import url('reset.css') layer(reset);
 
-.projects {
-    list-style: none;
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    gap: 2lh;
-    padding-left: 0;
+@import url('open-props.min.css') layer(openprops);
 
-    & li {
-        flex: 1;
+@import url('base.css') layer(base);
+
+@layer custom {
+    body {
+        margin: var(--size-3);
+        font-family: var(--font-sans);
     }
 
-    & a {
+    address {
+        font-style: normal;
+    }
+
+    .projects {
+        list-style: none;
         display: flex;
-        flex-direction: column;
-        justify-content: center;
+        flex-wrap: wrap;
         align-items: center;
-        gap: 1lh;
-        text-decoration: none;
-    }
+        gap: var(--size-6);
+        padding-left: 0;
 
-    & img {
-        width: 200px;
-        height: auto;
+        & li {
+            flex: 1;
+        }
+
+        & a {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            gap: var(--size-3);
+            text-decoration: none;
+        }
+
+        & img {
+            width: 200px;
+            height: auto;
+        }
     }
 }
