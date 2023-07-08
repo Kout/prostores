@@ -20,7 +20,7 @@ Petr Novotný (předseda sdružení)
 petr]štrůdl[krviktotr.cz
 </address>
 
-<hr>
+---
 
 ## Projekty, které aktuálně zastřešujeme
 

@@ -53,3 +53,8 @@ address {
 img {
     height: auto;
 }
+
+hr {
+    border: var(--border-size-1) solid var(--gray-3);
+    border-block-end: none;
+}
