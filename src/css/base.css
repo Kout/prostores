@@ -3,6 +3,12 @@ body {
     font-family: var(--font-sans);
 }
 
+main,
+footer {
+    max-width: var(--size-content-3);
+    margin: auto;
+}
+
 header {
     display:flow-root;
 

@@ -12,6 +12,18 @@
         font-family: var(--font-sans);
     }
 
+    header {
+        max-width: var(--size-content-3);
+        margin: auto;
+    }
+
+    footer {
+        padding-block: var(--size-3);
+        border-block: var(--border-size-1) solid var(--gray-3);
+        margin-block: var(--size-3);
+        text-align: center;
+    }
+
     address {
         font-style: normal;
     }
