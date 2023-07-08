@@ -22,7 +22,6 @@ module.exports = config => {
     // config.addFilter('w3DateFilter', w3DateFilter);
 
     config.addPassthroughCopy('./src/img/');
-    config.addPassthroughCopy("CNAME");
 
     // config.addShortcode("year", () => `${new Date().getFullYear()}`);
 
