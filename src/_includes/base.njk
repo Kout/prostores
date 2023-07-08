@@ -8,10 +8,10 @@
 </head>
 <body>
     <header>
+        <a href="/icebreaking/{{ 'en' if locale === 'cs' else 'cs' }}/{{ equivalent }}/">{{ switch }}</a>
         <a href="/icebreaking/{{ locale }}/">
             <img src="/img/logo-icebreaking-A.png" alt="Icebreaking" width="800" height="393">
         </a>
-        <a href="/icebreaking/{{ 'en' if locale === 'cs' else 'cs' }}/{{ equivalent }}/">{{ switch }}</a>
     </header>
 
     <main>
@@ -54,12 +54,10 @@
                 </li>
             </ul>
         </nav>
-        <p>
-            <figure>
-                <a href="https://www.visegradfund.org/"><img src="/img/visegrad_fund.png" alt="Suported by Visegrad Fund" width="800" height="367"></a>
-                <figcaption>The project is co-financed by the Governments of Czechia, Hungary, Poland and Slovakia through Visegrad Grants from International Visegrad Fund. The mission of the fund is to advance ideas for sustainable regional cooperation in Central Europe.</figcaption>
-            </figure>
-        </p>
+        <figure>
+            <a href="https://www.visegradfund.org/"><img src="/img/visegrad_fund.png" alt="Suported by Visegrad Fund" width="800" height="367"></a>
+            <figcaption>The project is co-financed by the Governments of Czechia, Hungary, Poland and Slovakia through Visegrad Grants from International Visegrad Fund. The mission of the fund is to advance ideas for sustainable regional cooperation in Central Europe.</figcaption>
+        </figure>
         <p>ⓒ <time datetime="2023-07-05">2023</time> <a href="/">Prostores z. s.</a></p>
     </footer>
 </body>

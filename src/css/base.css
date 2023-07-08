@@ -3,6 +3,14 @@ body {
     font-family: var(--font-sans);
 }
 
+header {
+    display:flow-root;
+
+    & a:first-child {
+        float: right;
+    }
+}
+
 h1 {
     max-inline-size: var(--size-header-2);
     margin-block-end: var(--size-fluid-2);
