@@ -25,6 +25,6 @@ petr]štrůdl[krviktotr.cz
 ## Projekty, které aktuálně zastřešujeme
 
 
-- [Krvik Totr](https://krviktotr.cz)
-- [Filtr](https://filtruj.cz)
-- [Icebreaking](/icebreaking/cs/)
+- [![](/img/partners/krvik-totr-cz.png) Krvik Totr](https://krviktotr.cz)
+- [![](/img/partners/filtr.svg) Filtr](https://filtruj.cz)
+- [![](/img/logo-icebreaking-A.png) Icebreaking](/icebreaking/cs/)
