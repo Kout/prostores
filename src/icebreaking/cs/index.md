@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: Icebreaking
+eleventyExcludeFromCollections: true
 ---
 
 # {{ title }}

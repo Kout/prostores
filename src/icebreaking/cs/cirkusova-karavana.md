@@ -2,6 +2,7 @@
 layout: base.njk
 title: Cirkusová karavana
 equivalent: circus-caravan
+displayOrder: 7
 ---
 
 # {{ title }}

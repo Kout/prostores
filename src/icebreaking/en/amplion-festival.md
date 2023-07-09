@@ -2,6 +2,7 @@
 layout: base.njk
 title: AMPLIÓN festival
 equivalent: festival-amplion
+displayOrder: 5
 ---
 
 # {{ title }}

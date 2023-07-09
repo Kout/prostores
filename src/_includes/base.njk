@@ -20,38 +20,13 @@
 
     <footer>
         <nav>
-            <h2>Projekt Icebreaking</h2>
+            <h2>{{ project_name }}</h2>
             <ul>
-                <li>
-                    <a href="/icebreaking/cs/projekt/">Projekt</a>
-                </li>
-                <li>
-                    <a href="/icebreaking/cs/partneri/">Partneři</a>
-                </li>
-                <li>
-                    <a href="/icebreaking/cs/kalendar/">Kalendář</a>
-                </li>
-                <li>
-                    <a href="/icebreaking/cs/vyzkum/">Výzkum</a>
-                </li>
-                <li>
-                    <a href="/icebreaking/cs/festival-amplion/">Festival Amplión</a>
-                </li>
-                <li>
-                    <a href="/icebreaking/cs/human-caravan/">Human Caravan</a>
-                </li>
-                <li>
-                    <a href="/icebreaking/cs/cirkusova-karavana/">Cirkusová karavana</a>
-                </li>
-                <li>
-                    <a href="/icebreaking/cs/press/">Press</a>
-                </li>
-                <li>
-                    <a href="/icebreaking/cs/galerie/">Galerie</a>
-                </li>
-                <li>
-                    <a href="/icebreaking/cs/kontakt/">Kontakt</a>
-                </li>
+                {% for nav_item in collections.nav_cs if locale === 'cs' else collections.nav_en %}
+                    <li>
+                        <a href="/icebreaking/{{ locale }}/{{ nav_item.fileSlug }}/">{{ nav_item.data.title }}</a>
+                    </li>
+                {% endfor %}
             </ul>
         </nav>
         <figure>

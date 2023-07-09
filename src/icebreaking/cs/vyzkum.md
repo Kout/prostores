@@ -2,6 +2,7 @@
 layout: base.njk
 title: Výzkum
 equivalent: research
+displayOrder: 4
 ---
 
 # {{ title }}

@@ -2,6 +2,7 @@
 layout: base.njk
 title: Kontakt
 equivalent: contact
+displayOrder: 10
 ---
 
 # {{ title }}

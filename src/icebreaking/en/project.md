@@ -2,6 +2,7 @@
 layout: base.njk
 title: Project
 equivalent: projekt
+displayOrder: 1
 ---
 
 # {{ title }}

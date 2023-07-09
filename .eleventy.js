@@ -1,4 +1,5 @@
 const i18n = require('eleventy-plugin-i18n');
+const sortByDisplayOrder = require('./src/utils/sort-by-display-order.js');
 
 // Filters
 // const dateFilter = require('./src/filters/date-filter.js');
@@ -23,6 +24,16 @@ module.exports = config => {
 
     config.addPassthroughCopy('./src/img/');
     config.addPassthroughCopy('./src/css/');
+
+    // Returns subpages, sorted by display order
+    config.addCollection('nav_cs', collection => {
+        return sortByDisplayOrder(collection.getFilteredByGlob('./src/icebreaking/cs/*.md'));
+    });
+
+    // Returns subpages, sorted by display order
+    config.addCollection('nav_en', collection => {
+        return sortByDisplayOrder(collection.getFilteredByGlob('./src/icebreaking/en/*.md'));
+    });
 
     // config.addShortcode("year", () => `${new Date().getFullYear()}`);
 

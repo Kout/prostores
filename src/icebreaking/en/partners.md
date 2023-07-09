@@ -2,6 +2,7 @@
 layout: base.njk
 title: Partners
 equivalent: partneri
+displayOrder: 2
 ---
 
 # {{ title }}

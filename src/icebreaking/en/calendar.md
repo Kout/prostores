@@ -2,6 +2,7 @@
 layout: base.njk
 title: Calendar
 equivalent: kalendar
+displayOrder: 3
 ---
 
 # {{ title }}
