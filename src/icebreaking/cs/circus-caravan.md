@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Cirkusová karavana
+title: Circus caravan
 equivalent: circus-caravan
 displayOrder: 7
 ---
