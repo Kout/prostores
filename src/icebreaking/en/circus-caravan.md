@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: Circus caravan
-equivalent: cirkusova-karavana
+equivalent: circus-caravan
 displayOrder: 7
 ---
 
