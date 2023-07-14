@@ -10,6 +10,7 @@ displayOrder: 2
 <article>
 
 ## PARTNER 1 <small>(Poland)</small>
+## Partner 1 <small>(Poland)</small>
 
 [<img src="/img/partners/kto-teater-pl.png" width="300" height="161">](https://teatrkto.pl/)
 
@@ -18,7 +19,7 @@ The KTO Theatre (*1977) is one of the most respected professional Polish theatr
 
 <article>
 
-## PARTNER 2 <small>(Czech Republic)</small>
+## Partner 2 <small>(Czech Republic)</small>
 
 [<img src="/img/partners/krvik-totr-cz.png" width="300" height="300">](https://krviktotr.cz/)
 
@@ -27,7 +28,7 @@ Creative members of PROSTORES group from Prague, representing the middle generat
 
 <article>
 
-## PARTNER 3 <small>(Hungary)</small>
+## Partner 3 <small>(Hungary)</small>
 
 [<img src="/img/partners/firebirds-hu.png" width="300" height="300">](https://firebirds.hu/)
 
@@ -36,7 +37,7 @@ The Firebirds new circus group formed in Budapest in 2000. Embodied by a wide r
 
 <article>
 
-## PARTNER 4 <small>(Ukraine)</small>
+## Partner 4 <small>(Ukraine)</small>
 
 [<img src="/img/partners/we-media-theater-ua.png" width="300" height="300">](https://www.facebook.com/WEmediatheater)
 

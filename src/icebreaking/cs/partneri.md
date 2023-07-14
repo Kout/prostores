@@ -10,6 +10,7 @@ displayOrder: 2
 <article>
 
 ## PARTNER 1 <small>(Polsko)</small>
+## Partner 1 <small>(Polsko)</small>
 
 [<img src="/img/partners/kto-teater-pl.png" width="300" height="161" alt="Divadlo KTO">](https://teatrkto.pl/)
 
@@ -18,7 +19,7 @@ Divadlo KTO (*1977) je jedním z nejuznávanějších polských profesionálníc
 
 <article>
 
-## PARTNER 2 <small>(Česká republika)</small>
+## Partner 2 <small>(Česká republika)</small>
 
 [<img src="/img/partners/krvik-totr-cz.png" width="300" height="300" alt="Krvik Totr">](https://krviktotr.cz/)
 
@@ -27,7 +28,7 @@ Tvůrčí členové pražské skupiny PROSTORES představují střední generaci
 
 <article>
 
-## PARTNER 3 <small>(Maďarsko)</small>
+## Partner 3 <small>(Maďarsko)</small>
 
 [<img src="/img/partners/firebirds-hu.png" width="300" height="300" alt="Firebirds">](https://firebirds.hu/)
 
@@ -36,7 +37,7 @@ Budapešťskou skupinu nového cirkusu Firebirds (*2000) ztělesňuje široká �
 
 <article>
 
-## PARTNER 4 <small>(Ukrajina)</small>
+## Partner 4 <small>(Ukrajina)</small>
 
 [<img src="/img/partners/we-media-theater-ua.png" width="300" height="300" alt="We: Media Theater">](https://www.facebook.com/WEmediatheater)
 

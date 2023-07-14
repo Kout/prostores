@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: Festival AMPLIÓN
-equivalent: amplion-festival
+equivalent: amplifier-festival
 displayOrder: 5
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: AMPLIÓN festival
+title: AMPLIFIER festival
 equivalent: festival-amplion
 displayOrder: 5
 ---
