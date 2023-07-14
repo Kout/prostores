@@ -9,7 +9,14 @@ displayOrder: 2
 
 <article>
 
-## PARTNER 1 <small>(Polsko)</small>
+## Koordinátor <small>(Slovensko)</small>
+
+[<img src="/img/partners/and.gif" width="300" height="117" alt="Ansámbel nepravidelného divadla n.o.">](https://www.and-theatre.art/)
+
+</article>
+
+<article>
+
 ## Partner 1 <small>(Polsko)</small>
 
 [<img src="/img/partners/kto-teater-pl.png" width="300" height="161" alt="Divadlo KTO">](https://teatrkto.pl/)

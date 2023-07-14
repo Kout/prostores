@@ -10,6 +10,9 @@ displayOrder: 10
 <address>
 	<h2>Project Coordinator</h2>
 
+	![The Ensemble Of Irregular Theatre NPO](/img/partners/and.gif)
+
+
 	**The Ensemble Of Irregular Theatre NPO**
 	Akademická 327/2
 	969 01 Banská Štiavnica 

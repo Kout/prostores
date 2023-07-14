@@ -10,6 +10,8 @@ displayOrder: 10
 <address>
 	<h2>Koordinátor projektu</h2>
 
+	![Ansámbel nepravidelného divadla n.o.](/img/partners/and.gif)
+
 	**Ansámbel nepravidelného divadla n.o.**
 	Akademická 327/2
 	969 01 Banská Štiavnica 

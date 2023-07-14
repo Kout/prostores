@@ -9,7 +9,14 @@ displayOrder: 2
 
 <article>
 
-## PARTNER 1 <small>(Poland)</small>
+## Coordinator <small>(Slovakia)</small>
+
+[<img src="/img/partners/and.gif" width="300" height="117" alt="The Ensemble Of Irregular Theatre NPO">](https://www.and-theatre.art/ensemble-of-irregular-theatre/)
+
+</article>
+
+<article>
+
 ## Partner 1 <small>(Poland)</small>
 
 [<img src="/img/partners/kto-teater-pl.png" width="300" height="161">](https://teatrkto.pl/)
