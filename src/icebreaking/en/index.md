@@ -6,6 +6,10 @@ eleventyExcludeFromCollections: true
 
 # {{ title }}
 
+## Theatre of social inclusion of V4 citizens and Ukraine refugees
+
+### (Part 1: Human caravan V4)
+
 Something unknown lies **ahead**. 
 
 A war is burning **near us**. 

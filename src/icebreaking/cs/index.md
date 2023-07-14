@@ -6,9 +6,9 @@ eleventyExcludeFromCollections: true
 
 # {{ title }}
 
-Čeká nás něco neznámého. 
+## Divadlo sociální inkluze místních komunit V4 a uprchlíků z Ukrajiny
 
-Nedaleko hoří válka. 
+### (Část 1: Lidská karavana V4)
 
 Vedle nás najednou žije cizí člověk. Jiný. 
 
