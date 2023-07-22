@@ -13,6 +13,8 @@ displayOrder: 2
 
 [<img src="/img/partners/and.gif" width="300" height="117" alt="The Ensemble Of Irregular Theatre NPO">](https://www.and-theatre.art/ensemble-of-irregular-theatre/)
 
+
+The Ensemble of Irregular Theatre NPO (AND) is an independent group of theatre and contemporary art professionals formed in 2017 after transforming from Kremnica Theatre Underground (*1973). It focuses to bringing new forms of modern street cabaret and socially engaged productions in cooperation with foreign creators. In 2016 AND founded the international multigenre AMPLIFIER Festival − New Cabaret & Street Art in Banská Štiavnica. AND was also the co-author of Renovation of the Identity for the City of Culture Banská Štiavnica 2019. Work of the AND has been presented at international festivals such as Za dveřmi (Behind the door) Praha, Festival REGIONY (REGIONS) Hradec Králové, ULICA (STREET) Krakow and domestic festivals such as Anasoft Litera, Akademický Prešov, Festival slobody (Festival of Freedom), Dotyky a spojenia (Touches and connections), POHODA Festival, etc.. The role of the AND in the project ICEBREAKING is to coordinate the project activities and the implementation of the whole project.
 </article>
 
 <article>
