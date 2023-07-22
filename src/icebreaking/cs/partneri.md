@@ -13,6 +13,8 @@ displayOrder: 2
 
 [<img src="/img/partners/and.gif" width="300" height="117" alt="Ansámbel nepravidelného divadla n.o.">](https://www.and-theatre.art/)
 
+
+Ansámbel nepravidelného divadla (AND) je nezávislá skupina divadelných profesionálov a priaznivcov súčasného umenia, ktorá vznikla v roku 2017 po transformácii z Kremnického divadla v podzemí (*1973). Zameriava sa na hľadanie nových foriem moderného pouličného kabaretu a spoločensky angažovaných inscenácií v spolupráci so zahraničnými tvorcami. V roku 2016 AND založil medzinárodný multižánrový Festival AMPLIÓN – Nový kabaret a pouličné umenie v Banskej Štiavnici. AND bol tiež spoluautorom projektu Renovácia identity pre Mesto kultúry Banská Štiavnica 2019. Tvorba AND bola prezentovaná na medzinárodných festivaloch Za dverami Praha, Festival REGIONY Hradec Králové, ULICA Krakow a na domácich festivaloch Anasoft litera, Akademický Prešov, Festival slobody, Dotyky a spojenia, Festival POHODA atď. Úlohou AND v projekte je koordinácia projektových aktivít a implementácie celého projektu.
 </article>
 
 <article>
