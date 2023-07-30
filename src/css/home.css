@@ -19,7 +19,7 @@
 
     footer {
         padding-block: var(--size-3);
-        border-block: var(--border-size-1) solid var(--gray-3);
+        border-block-start: var(--border-size-1) solid var(--primary);
         margin-block: var(--size-3);
         text-align: center;
     }

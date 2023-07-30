@@ -28,6 +28,13 @@ header img {
     scale: 1.2;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5 {
+    color: var(--primary);
+}
 h1 {
     max-inline-size: var(--size-header-2);
     margin-block-end: var(--size-fluid-2);
@@ -59,6 +66,16 @@ img {
 }
 
 hr {
-    border: var(--border-size-1) solid var(--gray-3);
+    border: var(--border-size-1) solid var(--primary);
     border-block-end: none;
+}
+
+a:link,
+a:visited {
+    color: var(--gray-9)
+}
+
+a:hover {
+    color: var(--primary);
+    text-decoration: none;
 }
