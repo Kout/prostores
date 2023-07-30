@@ -23,10 +23,9 @@
     }
 
     footer {
-        padding-block: var(--size-3);
+        padding-block: var(--size-7);
         border-block-start: var(--border-size-1) solid var(--primary);
-        margin-block: var(--size-3);
-        text-align: center;
+        margin-block: var(--size-7);
     }
 
     address {

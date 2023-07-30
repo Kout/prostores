@@ -69,6 +69,7 @@ img {
 hr {
     border: var(--border-size-1) solid var(--primary);
     border-block-end: none;
+    margin-block: var(--size-7);
 }
 
 a:link,
