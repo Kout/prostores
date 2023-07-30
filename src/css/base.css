@@ -6,6 +6,7 @@
 body {
     margin: var(--size-fluid-3);
     background-color: var(--bg);
+    color: var(--gray-9);
     font-family: var(--font-sans);
 }
 
