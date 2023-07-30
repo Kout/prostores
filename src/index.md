@@ -2,7 +2,19 @@
 layout: home.njk
 title: Prostores z. s.
 ---
+
+Cílem našeho spolku založeného v roce 2012 je umělecká, kulturní, pořadatelská, vzdělávací a publikační činnost.
+Usilujeme o podporu autorské umělecké tvorby a o spolupráci mezi profesionálními i neprofesionálními umělci v České republice i zahraničí.
+
+Stanovy spolku.
+
+---
+
+## Spolek {.visually-hidden}
+
 <address>
+
+### Sídlo spolku
 
 Na lužci 215/16 
 Praha 6 – Vokovice
@@ -12,20 +24,33 @@ IČ: 22604901
 
 Registrace u MV ČR: 26. 7. 2012, VS / 1-1 / 89590 / 12-R
 
-<a href="https://ib.fio.cz/ib/transparent?a=2802556608" target="_blank">Transparentní účet</a> sdružení: 2802556608/2010 (Fio banka) – děkujeme za Vaši podporu!
+[Výpis ze spolkového rejstříku](https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=761259&typ=PLATNY)
 
-## Kontaktní osoba
-Petr Novotný (předseda sdružení)
+<a href="https://ib.fio.cz/ib/transparent?a=2802556608" target="_blank">Transparentní účet</a> sdružení: 2802556608/2010 (Fio banka) – upřímně děkujeme za Vaši podporu kultuře!
+
+#### Kontakt
+
+Petr Jediný Novotný
 
 petr]štrůdl[krviktotr.cz
+
 </address>
 
 ---
 
-## Projekty, které aktuálně zastřešujeme
+### Projekty, které aktuálně zastřešujeme
 
 
 - [![](/img/partners/krvik-totr-cz.png) Krvik Totr](https://krviktotr.cz)
 - [![](/img/partners/filtr.svg) Filtr](https://filtruj.cz)
 - [![](/img/logo-icebreaking-A.png) Icebreaking](/icebreaking/cs/)
 {.projects}
+
+---
+
+### Členové spolku
+
+- Petr Jediný Novotný (předseda spolku pro období 2022–2027)
+- Tomáš Kout (rada spolku pro období 2022–2027)
+- Sonia Koutová (rada spolku pro období 2022–2027)
+- Filip Votava

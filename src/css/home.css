@@ -1,10 +1,12 @@
-@layer reset, openprops, base, custom;
+@layer reset, openprops, base, custom, utilities;
 
 @import url('reset.css') layer(reset);
 
 @import url('open-props.min.css') layer(openprops);
 
 @import url('base.css') layer(base);
+
+@import url('utilities.css') layer(base);
 
 @layer custom {
     body {
@@ -50,9 +52,9 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-            gap: var(--size-3);
-            text-decoration: none;
-        }
+        gap: var(--size-3);
+        text-decoration: none;
+    }
 
     .projects img {
         width: 200px;
