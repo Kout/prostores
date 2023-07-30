@@ -1,12 +1,17 @@
+:root {
+    --primary: #009fe3;
+    --bg: #f4f0e7;
+}
+
 body {
     margin: var(--size-fluid-3);
+    background-color: var(--bg);
     font-family: var(--font-sans);
 }
 
 main,
 footer {
     max-width: var(--size-content-3);
-    margin: auto;
 }
 
 header {
