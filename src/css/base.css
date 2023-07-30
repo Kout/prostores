@@ -21,10 +21,9 @@ header a:first-child {
     float: right;
 }
 
-header img {
+header a > img {
     position: relative;
     z-index: -1;
-    margin: auto;
     scale: 1.2;
 }
 
@@ -35,6 +34,7 @@ h4,
 h5 {
     color: var(--primary);
 }
+
 h1 {
     max-inline-size: var(--size-header-2);
     margin-block-end: var(--size-fluid-2);

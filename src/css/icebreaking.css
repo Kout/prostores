@@ -80,10 +80,6 @@
 
     /* footer */
 
-    footer p {
-        text-align: center;
-    }
-
     nav {
         padding-block: var(--size-3);
         padding-block-end: var(--size-3);
@@ -94,7 +90,7 @@
         max-width: var(--size-content-2);
         margin-inline: auto;
         margin-block-end: var(--size-3);
-        text-align: center;
+    }
     }
 
     figcaption {
