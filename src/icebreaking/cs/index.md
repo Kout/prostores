@@ -10,22 +10,22 @@ eleventyExcludeFromCollections: true
 
 ### (Část 1: Lidská karavana V4)
 
-**Čeká nás** něco neznámého.
+**Před námi** je něco neznámého.
 
 **Nedaleko** hoří válka.
 
-**Vedle nás** najednou žije cizí člověk. Jiný.
+**Vedle nás** najednou žije někdo cizí. Jiný.
 
-**Mezi námi** stojí bariéra – silná vrstva ledu. Může roztát?
+**Mezi námi** stojí bariéra – silná vrstva ledu. Jak by mohla roztát?
 
-Necháme **za sebou** své předsudky a pokusíme se společně, aby zamrzlé řeky roztály?
+Necháme **za sebou** své předsudky a pokusíme se společně o to, aby zamrzlé řeky roztály?
 
 Vydáme se proti proudu **naproti** sobě?
 
 ICEBREAKING **odkrývá** stereotypy v našich hlavách.
 
-**Rozbíjení** škatulek, do kterých třídíme lidi – okamžitě, ale navždy.
+**Rozbíjí** škatulky, do kterých bez rozmyslu a navždy třídíme lidi.
 
-**Prolomení** předsudků naší doby.
+**Prolamuje** předsudky naší doby.
 
-**Sbližování** se s těmi, které potřebujeme, abychom přežili.
+**Sbližuje** ty, díky nimž společně přežijeme.
