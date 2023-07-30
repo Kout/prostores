@@ -11,17 +11,16 @@ footer {
 
 header {
     display:flow-root;
+}
+header a:first-child {
+    float: right;
+}
 
-    & a:first-child {
-        float: right;
-    }
-
-    & img {
-        position: relative;
-        z-index: -1;
-        margin: auto;
-        scale: 1.2;
-    }
+header img {
+    position: relative;
+    z-index: -1;
+    margin: auto;
+    scale: 1.2;
 }
 
 h1 {

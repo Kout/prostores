@@ -35,23 +35,23 @@
         align-items: center;
         gap: var(--size-6);
         padding-left: 0;
+    }
 
-        & li {
-            flex: 1;
-        }
+    .projects li {
+        flex: 1;
+    }
 
-        & a {
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
+    .projects a {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
             gap: var(--size-3);
             text-decoration: none;
         }
 
-        & img {
-            width: 200px;
-            height: auto;
-        }
+    .projects img {
+        width: 200px;
+        height: auto;
     }
 }
