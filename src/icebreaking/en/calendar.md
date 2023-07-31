@@ -10,7 +10,7 @@ displayOrder: 3
 
 01 ICEBREAKING – RESEARCH
 : Social-inclusive activities with Czech citizens and the Ukrainian community
-: <time datetime="2023-08-07">7.–9. 8. 2023</time> Praha, CZ 
+: <time datetime="2023-08-07">7.–10. 8. 2023</time> Praha, CZ
 
 02 ICEBREAKING – RESEARCH
 : Social-inclusive activities with Hungarian citizens and the Ukrainian community

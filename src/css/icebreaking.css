@@ -33,6 +33,11 @@
         font-weight: var(--font-weight-5);
     }
 
+    dd ul ::marker,
+    dd ul time {
+        color: var(--primary);
+    }
+
     /* Partners subpage */
 
     article {
