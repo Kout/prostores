@@ -45,6 +45,11 @@ h2 {
     font-size: var(--font-size-fluid-2);
 }
 
+h2 small {
+    display: block;
+    color: var(--gray-6);
+}
+
 h3 {
     max-inline-size: var(--size-content-3);
     margin-block-end: var(--size-fluid-2);

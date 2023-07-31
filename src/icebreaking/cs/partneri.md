@@ -7,7 +7,7 @@ displayOrder: 2
 
 # {{ title }}
 
-<article>
+<article class="partner">
 
 ## Koordinátor <small>(Slovensko)</small>
 
@@ -17,7 +17,7 @@ displayOrder: 2
 Ansámbel nepravidelného divadla (AND) je nezávislá skupina divadelných profesionálov a priaznivcov súčasného umenia, ktorá vznikla v roku 2017 po transformácii z Kremnického divadla v podzemí (*1973). Zameriava sa na hľadanie nových foriem moderného pouličného kabaretu a spoločensky angažovaných inscenácií v spolupráci so zahraničnými tvorcami. V roku 2016 AND založil medzinárodný multižánrový Festival AMPLIÓN – Nový kabaret a pouličné umenie v Banskej Štiavnici. AND bol tiež spoluautorom projektu Renovácia identity pre Mesto kultúry Banská Štiavnica 2019. Tvorba AND bola prezentovaná na medzinárodných festivaloch Za dverami Praha, Festival REGIONY Hradec Králové, ULICA Krakow a na domácich festivaloch Anasoft litera, Akademický Prešov, Festival slobody, Dotyky a spojenia, Festival POHODA atď. Úlohou AND v projekte je koordinácia projektových aktivít a implementácie celého projektu.
 </article>
 
-<article>
+<article class="partner">
 
 ## Partner 1 <small>(Polsko)</small>
 
@@ -26,7 +26,7 @@ Ansámbel nepravidelného divadla (AND) je nezávislá skupina divadelných prof
 Divadlo KTO (*1977) je jedním z nejuznávanějších polských profesionálních divadel s dlouholetou tradicí pouličních představení a divadla pod širým nebem. Soubor navštívil více než 250 scén ve více než 40 zemích na 5 kontinentech. Divadlo KTO se podílí na mnoha mezinárodních projektech a je také organizátorem mezinárodního festivalu ULICA v Krakově (36 ročníků). Divadlo působí pod vedením uznávaného režiséra Jerzyho Zońa. Úlohou partnera je scenáristicko-režijní dohled a účinkování.
 </article>
 
-<article>
+<article class="partner">
 
 ## Partner 2 <small>(Česká republika)</small>
 
@@ -35,7 +35,7 @@ Divadlo KTO (*1977) je jedním z nejuznávanějších polských profesionálníc
 Tvůrčí členové pražské skupiny PROSTORES představují střední generaci českých umělců a hudebníků a sdružují se kolem kabaretního divadla KRVIK TOTR (*1992). Do projektu se zapojí dva zakládající členové skupiny Petr Jediný Novotný a Tomáš Kout, kteří se věnují tvorbě divadelních her. Jejich úkolem bude napsat originální scénář založený na využití autentických materiálů získaných terénním výzkumem ve vytipovaných lokalitách V4, kde koexistují místní obyvatelé a uprchlíci z Ukrajiny. 
 </article>
 
-<article>
+<article class="partner">
 
 ## Partner 3 <small>(Maďarsko)</small>
 
@@ -44,7 +44,7 @@ Tvůrčí členové pražské skupiny PROSTORES představují střední generaci
 Budapešťskou skupinu nového cirkusu Firebirds (*2000) ztělesňuje široká škála umělců a její repertoár tvoří pouliční představení, kabarety, současný cirkus a dětské divadlo. Cílem bude oslovit diváky ve všech zemích V4 prostřednictvím nonverbálního cirkusového a pohybového umění a odlehčit vážnost závažných témat citlivým humorem a vizualizací příběhu. Jejich propojení s ukrajinskou komunitou bude zásadní pro hlavní cíl projektu: odbourávání bariér mezi občany V4 a uprchlíky z Ukrajiny. Role partnera: kreativní produkce, performování.
 </article>
 
-<article>
+<article class="partner">
 
 ## Partner 4 <small>(Ukrajina)</small>
 
