@@ -30,9 +30,9 @@ Registrace u MV ČR: 26. 7. 2012, VS / 1-1 / 89590 / 12-R
 
 #### Kontakt
 
-Petr Jediný Novotný
+Petr Jediný Novotný (předseda spolku)
 
-petr]štrůdl[krviktotr.cz
+petr]štrůdl[<span>krviktotr.cz</span>
 
 </address>
 
