@@ -17,6 +17,7 @@ footer {
 
 header {
     display:flow-root;
+    margin-block-end: var(--size-7)
 }
 header a:first-child {
     float: right;
