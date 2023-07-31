@@ -34,7 +34,11 @@
                 <img src="/img/visegrad_fund.svg" alt="Suported by Visegrad Fund" width="800" height="367">
             </a>
             <figcaption>
-                <p>The project is co-financed by the Governments of Czechia, Hungary, Poland and Slovakia through Visegrad Grants from International Visegrad Fund. The mission of the fund is to advance ideas for sustainable regional cooperation in Central Europe.</p>
+                {% if locale === 'cs' %}
+                    <p>Projekt je spolufinancovaný vládami České republiky, Maďarska, Polska a Slovenska prostřednictvím visegradských grantů z Mezinárodního visegradského fondu. Posláním fondu je prosazovat myšlenky udržitelné regionální spolupráce ve střední Evropě.</p>
+                {% else %}
+                    <p>The project is co-financed by the Governments of Czechia, Hungary, Poland and Slovakia through Visegrad Grants from International Visegrad Fund. The mission of the fund is to advance ideas for sustainable regional cooperation in Central Europe.</p>
+                {% endif %}
             </figcaption>
         </figure>
         <p>ⓒ <time datetime="2023-07-05">2023</time> <a href="/">Prostores z. s.</a></p>
