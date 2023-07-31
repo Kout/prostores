@@ -29,7 +29,7 @@ WE: MEDIA THEATER (UA), Praha
 **<time>16:00–20:00</time> | SOUSEDSKÝ PIKNIK pro matky s dětmi z ČR + UA se zážitkovými aktivitami a
 workshopem ICEBREAKING pod vedením scénografa Tomáše Žižky (SK/CZ), Thomayerovy sady,
 Praha-Libeň, veřejné**
-[Pozvánka ke stažení](/files/Icebreaking-piknik-Praha-2023-cz.pdf)
+[Pozvánka ke stažení (česky + ukrajinsky)](/files/Icebreaking-piknik-Praha-2023-cz-ua.pdf)
 [Facebooková událost](https://www.facebook.com/events/690959142876244/)
 
 

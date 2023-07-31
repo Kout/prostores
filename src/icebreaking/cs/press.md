@@ -8,7 +8,7 @@ displayOrder: 8
 # {{ title }}
 
 - <time datetime="2023-08-07">7. 8. 2023</time>: [Cizinec na papíře: Dílna autorského psaní (DAMU)](https://www.facebook.com/events/311848634603518/)
-- <time datetime="2023-08-08">8. 8. 2023</time>: [Sousedský piknik: Icebreaking (Thomayerovy sady)](https://www.facebook.com/events/690959142876244/) | [Pozvánka ke stažení](/files/Icebreaking-piknik-Praha-2023-cz.pdf) <small>(PDF, 272 kB)</small>
+- <time datetime="2023-08-08">8. 8. 2023</time>: [Sousedský piknik: Icebreaking (Thomayerovy sady)](https://www.facebook.com/events/690959142876244/) | [Pozvánka ke stažení (česky + ukrajinsky)](/files/Icebreaking-piknik-Praha-2023-cz-ua.pdf) <small>(PDF, 272 kB)</small>
   <details open>
     <summary>podrobnosti</summary>
 
