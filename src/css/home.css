@@ -6,7 +6,7 @@
 
 @import url('base.css') layer(base);
 
-@import url('utilities.css') layer(base);
+@import url('utilities.css') layer(utilities);
 
 @layer custom {
     body {
@@ -35,12 +35,10 @@
     }
 
     .projects {
-        list-style: none;
         display: flex;
         flex-wrap: wrap;
         align-items: center;
         gap: var(--size-6);
-        padding-left: 0;
     }
 
     .projects li {

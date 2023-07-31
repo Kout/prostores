@@ -44,7 +44,7 @@ petr]štrůdl[<span>krviktotr.cz</span>
 - [![](/img/partners/krvik-totr-cz.png) Krvik Totr](https://krviktotr.cz)
 - [![](/img/partners/filtr.svg) Filtr](https://filtruj.cz)
 - [![](/img/logo-icebreaking-A.png) Icebreaking](/icebreaking/cs/)
-{.projects}
+{.projects .list-unstyled}
 
 ---
 

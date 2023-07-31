@@ -1,10 +1,12 @@
-@layer reset, openprops, base, custom;
+@layer reset, openprops, base, custom, utilities;
 
 @import url('reset.css') layer(reset);
 
 @import url('open-props.min.css') layer(openprops);
 
 @import url('base.css') layer(base);
+
+@import url('utilities.css') layer(utilities);
 
 @layer custom {
 
@@ -79,11 +81,6 @@
     }
 
     /* research */
-
-    .research-trip ul {
-        list-style: none;
-        padding-inline-start: 0;
-    }
 
     .research-trip time {
         color: var(--gray-6);

@@ -54,6 +54,7 @@ WE: MEDIA THEATER (UA)
 <time>14:30–18:30</time> | Zpracování vybraných materiálů scénáristy + PR aktivity (CZ+SK)
 Změna programu vyhrazena.
 [Více informací a kontakt](https://prostores.cz/icebreaking)
+{.list-unstyled}
 </article>
 
 ---
@@ -94,6 +95,7 @@ Rajčanová, periferie
 <time>18:30–21:30</time> | Zpracování vybraných materiálů scénáristy + PR aktivity (CZ+SK)
 Změna programu vyhrazena.
 [Více informací a kontakt](https://firebirds.hu/show/icebreaking)
+{.list-unstyled}
 </article>
 
 ---
@@ -136,6 +138,7 @@ Rajčanová (SK) + terénní výzkum v Banskej Belej a na Červenej studni
 <time>20:00–22:00</time> | Zpracování vybraných materiálů scénáristy + PR aktivity (CZ+SK)
 Změna programu vyhrazena.
 [Více informací a kontakt](https://www.and-theatre.art/icebreaking-sk/vyskum/)
+{.list-unstyled}
 </article>
 
 ---
@@ -184,6 +187,7 @@ WE: MEDIA THEATER (UA), periferie
 <time>12:00–14:00</time> | Zpracování vybraných materiálů scénáristy + PR aktivity (CZ+SK).
 Změna programu vyhrazena.
 [Více informací a kontakt](https://teatrkto.pl/projekty/)
+{.list-unstyled}
 </article>
 
 ---
