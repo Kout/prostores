@@ -23,9 +23,7 @@ header a:first-child {
 }
 
 header a > img {
-    position: relative;
-    z-index: -1;
-    scale: 1.2;
+    width: 560px;
 }
 
 h1,
@@ -63,6 +61,7 @@ address {
 }
 
 img {
+    max-width: 100%;
     height: auto;
 }
 
