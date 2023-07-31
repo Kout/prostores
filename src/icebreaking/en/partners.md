@@ -30,7 +30,7 @@ The KTO Theatre (*1977) is one of the most respected professional Polish theatr
 
 ## Partner 2 <small>(Czech Republic)</small>
 
-[<img src="/img/partners/krvik-totr-cz.png" width="300" height="300">](https://krviktotr.cz/)
+[<img src="/img/partners/prostores-round-cz.png" width="300" height="300" alt="Prostores, z. s.">](https://prostores.cz/)
 
 Creative members of PROSTORES group from Prague, representing the middle generation of Czech artists and musicians, are teamed around the cabaret theatre KRVIK TOTR (*1992). The group’s two founding members Petr Jediný Novotný and Tomáš Kout who specialize in playwriting will participate in the project. Their main role will be to write an original script based on the use of authentic materials collected via field research in the identified V4 locations in which the local citizens and refugees from UA co-exist. 
 </article>

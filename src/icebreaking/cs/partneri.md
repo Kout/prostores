@@ -30,7 +30,7 @@ Divadlo KTO (*1977) je jedním z nejuznávanějších polských profesionálníc
 
 ## Partner 2 <small>(Česká republika)</small>
 
-[<img src="/img/partners/krvik-totr-cz.png" width="300" height="300" alt="Krvik Totr">](https://krviktotr.cz/)
+[<img src="/img/partners/prostores-round-cz.png" width="300" height="300" alt="Prostores, z. s.">](https://prostores.cz/)
 
 Tvůrčí členové pražské skupiny PROSTORES představují střední generaci českých umělců a hudebníků a sdružují se kolem kabaretního divadla KRVIK TOTR (*1992). Do projektu se zapojí dva zakládající členové skupiny Petr Jediný Novotný a Tomáš Kout, kteří se věnují tvorbě divadelních her. Jejich úkolem bude napsat originální scénář založený na využití autentických materiálů získaných terénním výzkumem ve vytipovaných lokalitách V4, kde koexistují místní obyvatelé a uprchlíci z Ukrajiny. 
 </article>
