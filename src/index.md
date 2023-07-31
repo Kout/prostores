@@ -1,12 +1,12 @@
 ---
 layout: home.njk
-title: Prostores z. s.
+title: O spolku
 ---
 
 Cílem našeho spolku založeného v roce 2012 je umělecká, kulturní, pořadatelská, vzdělávací a publikační činnost.
 Usilujeme o podporu autorské umělecké tvorby a o spolupráci mezi profesionálními i neprofesionálními umělci v České republice i zahraničí.
 
-[Stanovy spolku.](/stanovy/)
+[Stanovy spolku](/stanovy/)
 
 ---
 
