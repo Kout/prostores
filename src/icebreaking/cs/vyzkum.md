@@ -21,7 +21,7 @@ displayOrder: 4
 UK Ema Rajčanová (SK), Praha
 **<time>16:00–19:00</time> | Cizinec na papíře: Dílna autorského psaní pro studenty uměleckých oborů z ČR + UA i veřejnost, vede Petr Jediný Novotný (CZ) z DAMU, Praha. Pouze pro přihlášené na:**
 	**petr.novotny@damu.cz (do 2. 8. 2023)**
-	**[facebooková událost](https://www.facebook.com/events/311848634603518/)**
+	**[Facebooková událost](https://www.facebook.com/events/311848634603518/)**
 
 - **ÚTERÝ 8. 8. 2023**
 <time>09:00–12:00</time> | Natáčení videoreportáže ICEBREAKING s předem vybranými hrdiny z ČR + UA v režii
@@ -29,8 +29,8 @@ WE: MEDIA THEATER (UA), Praha
 **<time>16:00–20:00</time> | SOUSEDSKÝ PIKNIK pro matky s dětmi z ČR + UA se zážitkovými aktivitami a
 workshopem ICEBREAKING pod vedením scénografa Tomáše Žižky (SK/CZ), Thomayerovy sady,
 Praha-Libeň, veřejné**
-[Více informací](http://localhost:8080/icebreaking/cs/press/)\
-[facebooková událost](https://www.facebook.com/events/690959142876244/)
+[Pozvánka ke stažení](/files/Icebreaking-piknik-Praha-2023-cz.pdf)
+[Facebooková událost](https://www.facebook.com/events/690959142876244/)
 
 
 - **STŘEDA 9. 8. 2023**

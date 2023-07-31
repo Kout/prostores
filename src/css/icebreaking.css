@@ -87,6 +87,23 @@
         font-weight: var(--font-weight-6);
     }
 
+    /* press */
+
+    .picnic-partners {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: var(--size-5);
+    }
+
+    @media screen and (min-width: 500px) {
+
+        .picnic-partners {
+            flex-wrap: nowrap;
+        }
+    }
+
+
     /* footer */
 
     nav {
