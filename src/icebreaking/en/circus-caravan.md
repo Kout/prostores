@@ -1,8 +1,8 @@
 ---
 layout: base.njk
-title: Human Caravana
-equivalent: human-caravana
-displayOrder: 6
+title: Circus caravan
+equivalent: circus-caravan
+displayOrder: 7
 ---
 
 # {{ title }}
