@@ -7,6 +7,4 @@ displayOrder: 6
 
 # {{ title }}
 
-<img src="/img/icebreaking-2D-positiv.png" alt="Icebreaking" width="600" height="283">
-
-Na stránce se usilovně pracuje
+<img src="/img/human-caravan.jpg" alt="Pozvánka na představení Human Caravan 23. září 2023 v Banské Štiavnici" width="700" height="990">

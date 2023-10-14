@@ -15,7 +15,6 @@ displayOrder: 4
 
 ### Program
 
-
 - **PONDĚLÍ 7. 8. 2023**
 <time>10:00–13:00</time> | Individuální rozhovory s předem vybranými respondenty, které povede studentka FHS
 UK Ema Rajčanová (SK), Praha

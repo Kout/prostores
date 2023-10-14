@@ -7,6 +7,4 @@ displayOrder: 6
 
 # {{ title }}
 
-<img src="/img/icebreaking-2D-positiv.png" alt="Icebreaking" width="600" height="283">
-
-Under progress
+<img src="/img/human-caravan.jpg" alt="Poster for Human Caravan performance on 23 September 2023 in Banská Štiavnica" width="700" height="990">
