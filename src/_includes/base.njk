@@ -9,10 +9,10 @@
 </head>
 <body>
     <header>
-        <a href="/icebreaking/{{ 'en' if locale === 'cs' else 'cs' }}/{{ equivalent }}/">{{ switch }}</a>
         <a href="/icebreaking/{{ locale }}/">
             <img src="/img/logo-icebreaking-A.png" alt="Icebreaking" width="800" height="393">
         </a>
+        <a href="/icebreaking/{{ 'en' if locale === 'cs' else 'cs' }}/{{ equivalent }}/">{{ switch }}</a>
     </header>
 
     <main>

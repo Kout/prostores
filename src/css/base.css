@@ -16,7 +16,8 @@ footer {
 }
 
 header {
-    display:flow-root;
+    display: flex;
+    justify-content: space-between;
     margin-block-end: var(--size-7)
 }
 header a:first-child {
