@@ -34,6 +34,8 @@ Petr Jediný Novotný (předseda spolku)
 
 petr]štrůdl[<span>krviktotr.cz</span>
 
+datová schránka: `iztbfat`
+
 </address>
 
 ---
