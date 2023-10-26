@@ -103,6 +103,23 @@
         }
     }
 
+    /* gallery */
+
+    .gallery {
+        display: grid;
+        grid-template-columns: repeat(4, 180px);
+        gap: var(--size-3);
+    }
+
+    .gallery a {
+        padding: 0;
+    }
+
+    .gallery img {
+        width: 180px;
+        height: 120px;
+        object-fit: cover;
+    }
 
     /* footer */
 
