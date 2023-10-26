@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ title }} | Prostores, z. s.</title>
     <link rel="stylesheet" href="/css/icebreaking.css">
+    <link rel="stylesheet" href="/css/blueimp-gallery.min.css">
     {% include "favicon.njk" %}
 </head>
 <body>
@@ -44,5 +45,49 @@
         </figure>
         <p>ⓒ <time datetime="2023-07-05">2023</time> <a href="/">Prostores z. s.</a></p>
     </footer>
+    <!-- The Gallery as lightbox dialog, should be a document body child element -->
+    <div id="blueimp-gallery" class="blueimp-gallery" aria-label="image gallery" aria-modal="true" role="dialog">
+        <div class="slides" aria-live="polite"></div>
+        <h3 class="title"></h3>
+        <p class="description"></p>
+        <a class="prev" aria-controls="blueimp-gallery" aria-label="previous slide" aria-keyshortcuts="ArrowLeft"></a>
+        <a class="next" aria-controls="blueimp-gallery" aria-label="next slide" aria-keyshortcuts="ArrowRight"></a>
+        <a class="close" aria-controls="blueimp-gallery" aria-label="close" aria-keyshortcuts="Escape"></a>
+        <a class="play-pause" aria-controls="blueimp-gallery" aria-label="play slideshow" aria-keyshortcuts="Space" aria-pressed="false" role="button"></a>
+        <ol class="indicator"></ol>
+    </div>
+    <script src="/js/blueimp-gallery.min.js"></script>
+    <script>
+        let galleries = [
+            'gallery-praha',
+            'gallery-budapest',
+            'gallery-selmecbanya',
+            'gallery-krakow',
+            'gallery-selmecbanya-workshop',
+            'gallery-selmecbanya-pilot',
+        ];
+        galleries.forEach((gallery) => {
+
+            document.getElementById(gallery).onclick = function (event) {
+                event = event || window.event
+                var target = event.target || event.srcElement
+                var link = target.src ? target.parentNode : target
+                var options = {
+                    index: link,
+                    event: event,
+                    onslide: function (index, slide) {
+                        var text = this.list[index].getAttribute('data-description'),
+                            node = this.container.find('.description')
+                        node.empty()
+                        if (text) {
+                            node[0].appendChild(document.createTextNode(text))
+                        }
+                    }
+                }
+                var links = this.getElementsByTagName('a')
+                blueimp.Gallery(links, options)
+            }
+        })
+    </script>
 </body>
 </html>

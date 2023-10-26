@@ -25,6 +25,7 @@ module.exports = config => {
     config.addPassthroughCopy('./src/img/');
     config.addPassthroughCopy('./src/css/');
     config.addPassthroughCopy('./src/files/');
+    config.addPassthroughCopy('./src/js/');
 
     // Returns subpages, sorted by display order
     config.addCollection('nav_cs', collection => {
