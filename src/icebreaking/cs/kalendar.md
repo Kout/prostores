@@ -45,6 +45,10 @@ displayOrder: 3
 : Profilové představení polského partnera: ARCADIA – pouliční představení
 : <time datetime="2023-09-23">23. 9. 2023</time> Banská Štiavnica, SK (Festival AMPLIÓN)
 
-10 HUMAN CARAVANA V4 / HUMAN KARAVANA V4 
+10 HUMAN CARAVAN V4
 : Společná premiéra + 2 reprízy pilotního představení projektu ICEBREAKING.
 : <time datetime="2023-09-22">22.–24. 9. 2023</time> Banská Štiavnica a periferie (Festival AMPLIÓN)
+
+11 WEBINÁŘ / JAK VZNIKALO PŘEDSTAVENÍ HUMAN CARAVAN?
+: Webinář z výzkumu, workshopu a pilotu pouličního představení Human caravan
+: <time datetime="2023-10-26T18:00:00">26. 10. 2023</time> Online na MS Teams (program dle události na Facebooku)

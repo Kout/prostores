@@ -44,6 +44,10 @@ displayOrder: 3
 : Profile performance of the Polish partner: ARCADIA – street performance
 : <time datetime="2023-09-23">23. 9. 2023</time> Banská Štiavnica, SK (Festival AMPLIÓN)
 
-10 HUMAN CARAVANA V4 / HUMAN KARAVANA V4 
+10 HUMAN CARAVAN V4
 : Joint premiere + 2 reprises of the pilot performance of the ICEBREAKING project 
 : <time datetime="2023-09-22">22.–24. 9. 2023</time> Banská Štiavnica a periferie (Festival AMPLIÓN)
+
+11 WEBINAR / How was the HUMAN CARAVANA created?
+: Webinar from the research, workshop and pilot street performance HUMAN CARAVAN
+: <time datetime="2023-10-26T18:00:00">26. 10. 2023</time> Online via Teams (program according to Facebook event)
