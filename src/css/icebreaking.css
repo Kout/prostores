@@ -103,6 +103,21 @@
         }
     }
 
+    blockquote {
+        padding: var(--size-3);
+        border-left: var(--border-size-4) solid var(--gray-4);
+        margin-block: var(--size-4);
+        font-style: italic;
+
+        & p {
+            margin-bottom: 0;
+        }
+
+        & footer {
+            text-align: right;
+        }
+    }
+
     /* gallery */
 
     .gallery {
