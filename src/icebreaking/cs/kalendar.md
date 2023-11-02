@@ -49,6 +49,6 @@ displayOrder: 3
 : Společná premiéra + 2 reprízy pilotního představení projektu ICEBREAKING.
 : <time datetime="2023-09-22">22.–24. 9. 2023</time> Banská Štiavnica a periferie (Festival AMPLIÓN)
 
-11 WEBINÁŘ / JAK VZNIKALO PŘEDSTAVENÍ HUMAN CARAVAN?
+11 WEBINÁŘ / JAK VZNIKLO PŘEDSTAVENÍ HUMAN CARAVAN?
 : Webinář z výzkumu, workshopu a pilotu pouličního představení Human caravan
 : <time datetime="2023-10-26T18:00:00">26. 10. 2023</time> Online na MS Teams (program dle události na Facebooku)
