@@ -9,7 +9,7 @@ displayOrder: 8
 
 - <time datetime="2023-08-07">7. 8. 2023</time>: [Cizinec na papíře: Dílna autorského psaní (DAMU)](https://www.facebook.com/events/311848634603518/)
 - <time datetime="2023-08-08">8. 8. 2023</time>: [Sousedský piknik: Icebreaking (Thomayerovy sady)](https://www.facebook.com/events/690959142876244/) | [Pozvánka ke stažení (česky + ukrajinsky)](/files/Icebreaking-piknik-Praha-2023-cz-ua.pdf) <small>(PDF, 272 kB)</small>
-  <details open>
+  <details>
     <summary>podrobnosti</summary>
 
     ## Sousedský piknik: Icebreaking
@@ -38,3 +38,83 @@ displayOrder: 8
     - <img src="/img/partners/unicef.png" alt="Visegrad fund" width="160">
     {.picnic-partners .list-unstyled}
   </details>
+- <time datetime="2023-09-30">30. 9. 2023</time>: Icebreaking (V4+UA) report z výskumu, workshopu a premiéry pilotu Human Caravana
+  <details>
+    <summary>podrobnosti</summary>
+
+    > „Verím v silu umenia ako formy, ako byť spolu.“
+    > Jerzy Zoń, režisér Teatr KTO, Krakow
+
+    Myšlienka pripraviť divadlo sociálnej inklúzie, ktoré by pomohlo začleniť ukrajinských odídencov do spoločnosti a pochopiť domácemu obyvateľstvu situáciu, v ktorej sme sa navzájom ocitli, vznikla v čase, keď vlna solidarity a pomoci našim napadnutým susedom vrcholila, ale už sa objavovali prvé nedorozumenia a animozity. Netušili sme, že ich vývoj bude taký dynamický a rovnako sme nepredpokladali, ako nebude jednoduché zmapovať stav rôznorodých vzťahov medzi domácimi obyvateľmi a utečencami v okolitých krajinách, zachytiť a pochopiť kľúčové momenty ľudských osudov a v procese tvorby ich dramatickými prostriedkami transformovať do atraktívneho umeleckého a širokej verejnosti zrozumiteľného divadelného tvaru.
+
+    Aj preto projekt „Prelamovanie ľadov“ mal a ešte bude mať viacero rozlične náročných fáz. Celý projekt tvoria 3 etapy: VÝSKUM, HUMAN CARAVANA, CIRCUS CARAVANA. Východiskom bolo oslovenie štyroch spriatelených divadiel z krajín V4 a dohoda na aktuálnosti témy a na potrebe pomôcť prekonávať bariéry medzi nami, najbližšími susedmi. Aby nezvíťazili oživené predsudky, mentálne bariéry a šíriaca sa nenávisť, ale vzájomné porozumenie, ľudskosť a dôstojnosť. My, Ansámbel nepravidelného divadla (AND) z Banskej Štiavnice sme oslovili a vytvorili kreatívne konzorcium s Teatr KTO z Krakova, Krvik Totr z Prahy a Firebirds company z Budapešti, aby sme spoločne vytvorili medzinárodnú pouličnú inscenáciu zameranú na zbližovanie miestnych občanov v krajinách V4 s odídencami z Ukrajiny. Do partnerskej spolupráce sme prizvali aj ukrajinské multimediálne divadlo WE: MEDIA THEATER z Ľviva. Každý z partnerov tejto európskej spolupráce má v projekte svoju špecifickú úlohu. Slovenský koordinátor je zodpovedný za celkový manažment projektu a jeho režijnú zložku, český partner má za úlohu napísať libreto a neskôr scenár inscenácie, poľské a maďarské divadlá zastupujú najmä ich herci ako performeri inscenácie a ukrajinský tím obohacuje projekt o filmovú a dokumentačnú tvorbu.
+
+    ### Výskum
+
+    Do prvej etapy bádania v jednotlivých krajinách V4 sa pustil najskôr užší tím:  hlavní protagonisti autorského divadla Krvik Totr a scenáristi projektu z Prahy – Petr Novotný a Tomáš Kout spolu s členmi nášho AND, režisérkou Janou Mikitkovou a PR manažérkou Emou Rajčanovou pripravili rôzne sociálno-inkluzívne aktivity s miestnymi občanmi krajín V4 a ukrajinskou komunitou v Prahe, v Budapešti, v Banskej Štiavnici a Krakove. Štvordňové pobyty medzinárodného tímu divadelníkov v týchto mestách boli v auguste 2023 zamerané na výskum a zber autentických príbehov odídencov v teréne ako inšpirácia pre scenár budúcej pouličnej inscenácie. Z absolvovaných stretnutí, prieskumných návštev dočasných ukrajinských príbytkov, z realizácie tvorivých workshopov s miestnymi občanmi i domestikovanými utečencami a tiež z mnohých individuálnych rozhovorov s vytipovanými respondentmi zaznamenali množstvo nevšedných príbehov a emocionálnych zážitkov, ktoré nám objasnili prežívanie diametrálne odlišných osudov podobných generácií v dvoch susediacich krajinách.
+
+    Pochopili sme, že sila témy je obrovská. S pokorou sme rešpektovali, že osobná skúsenosť ukrajinských odídencov je do veľkej mieri neprenosná a pre nás nepochopiteľná a zároveň sme pomaly nachádzali cesty, ktoré nás zbližovali, napr. zdieľanie receptov na národné špeciality, živá hudba, spev obľúbených piesní, či žonglérske techniky alebo smiech z drobných jazykových nedorozumení.
+
+    > „Cítim sa ako doma. Cítim sa ako medzi svojimi.“
+    > <footer>(Sveťa, Kyjiv)</footer>
+
+    > „My už domov nemáme, nemáme nič, chcem tu zostať.“
+    > <footer>(Olena, Bachmut)</footer>
+
+    > „Kto stratí domov a pôdu, akoby neexistoval, ako by stratil život.“
+    > <footer>(Olha, Zaporožie)</footer>
+
+    > „Išli sme sa prejsť do parku a nemuseli sme dávať pozor, kde sú míny…“
+    > <footer>(Liuda, Lviv)</footer>
+
+    > „Už sme zabudli, aké je to byť vonku v noci a len tak si užívať život ako ľudia tu.“
+    > <footer>(Olha, Lviv)</footer>
+
+    „Máme sa tu dobre, ale hneď ako skončí vojna, viem, na ktorý spoj nasadnem a vrátim sa späť.“ (Olha, Zaporožie)
+    Výskumné cesty vyvrcholili v každom meste príjemným Susedským piknikom s neformálnym, no zároveň cieľavedomým programom, štruktúrou i ľahkým občerstvením.  Po úvodnom zoznámení a vlastnoručnom zápise krstných mien účastníkov na spoločný baliaci papier (pozoruhodné bolo sledovať, kto používa ukrajinský alebo ruský podpis či výslovnosť mien) nasledovalo zábavné spoznávanie rôzneho významu zvukomalebných slov v našich stredoeurópskych jazykoch (čučoriedka a pod.), hľadanie podobných slov s iným významom (napr. naše úžasné je po ukrajinsky hrozné) a uvedomovanie si straty pôvodnej jazykovej identity a nadobúdania novej u odídencov (odmietnutie ruštiny, preferencia ukrajinčiny, nevyhnutné učenie sa miestneho jazyka). Piknik pokračoval predstavou domova, kde odídenci žijú, avšak so zavretými očami (často emotívne porovnávali svoje súčasné malé, zdieľané izbičky so svojimi veľkými domami a sadmi na Ukrajine). Takmer všetci žili v spomienkach, v minulosti. Potom prišlo na rad rozdávanie vzájomne vopred pripravených darčekových balíčkov a hádanie, čo v nich asi je. Po ich rozbalení individuálne zvažovanie, či ten darček obdarovaný potrebuje, alebo ho niekomu daruje ďalej. Na hru na darčeky nadviazala prechádzková interakcia vo dvojiciach s motúzkom od balíkov, vzájomné vodenie sa so zavretými očami po exteriéri pikniku ako test obojstrannej dôvery. Potom všetci obdarovaní z kusov baliaceho papiera od darčekov spoločne zliepali dokopy kraje a mestá Ukrajiny a krajiny V4 (už v samotnom názve krajiny „Ukrajina“ sa skrýva slovo „ukrajovať“). Do tejto „mapotvorby“ nového európskeho kontinentu ochotne pridávali svoj domovský región aj starší účastníci. Každý piknik (okrem Budapešti) multijazyčne moderoval a svojím pútavým rozprávaním o európskych koreňoch svojich predkov obohacoval skúsený scénograf a performer Tomáš Žižka z Prahy, ktorý na záver predviedol neobvyklú hudobnú performanciu. Z veľkého suchého koreňa stromu za pomoci snímača a rozličných nástrojov (paličky, kefy, hračky…) zázračne vylúdil rôzne rytmické zvuky, čím zaujal nielen deti, ale doslova uhranul aj staršie ženy, ktoré sa s podobným súčasným umením ešte nestretli. Susedské pikniky sa uskutočnili v exteriéroch Thomayerových sadov (Praha), v parčíku komunitného inkubátora Konnektor (Budapešť), v záhrade Skautského domu (Banská Štiavnica) a na exteriérovej scéne Teatr KTO v Krakove. Počet účastníkov bol v čase premenlivý, od 20  do 40 v priebehu troch-štyroch hodín. Niektorí totiž podľa svojich možností priebežne prichádzali i odchádzali. Prevahu mali väčšinou Ukrajinci, s organizáciou akcie pomáhali manažéri domácich partnerských divadiel.
+
+    V priebehu 13-dňového výskumného turné sa členovia osemčlenného medzinárodného tímu každý večer aj spoločne stretávali, aby si nielen odovzdali základné informácie a osobné zážitky nadobudnuté v individuálnych rozhovoroch a situáciách počas dňa, vyselektovali zaujímavé a pre tvorbu inšpirujúce momenty, ktoré by mohli obohatiť scenáristov, dramaturga a režisérku v procese kreovania budúcej inscenácie, ale aby aj navzájom „roztápali ľady“ medzi účastníkmi výskumu navzájom. Okrem množstva fotografií vznikla aj bohatá databáza všetkých aktivít, ktoré počas výskumných ciest nakrúcali na audio a videozáznam Liudmyla Batalová a Olha Klymuk z partnerského ukrajinského divadla. Do dokumentárneho filmu ICEBREAKING ich ako reportážny príbeh jednej z nich neskôr umelecky spracoval režisér Sashko Brama (UA). Premiéra a diskusia s tvorcami sa uskutočnila na záver 8. ročníka Festivalu AMPLIÓN – Nový kabaret & pouličné umenie 2023 v Banskej Štiavnici.
+
+    > „Som Ruska, ale môj domov je Ukrajina.“
+    > <footer>(Olha, Zaporožie)</footer>
+
+    > „V Budapešti nemám domov. Som tu na dlhom výlete.“
+    > <footer>(Martin, Kijiv)</footer>
+
+    > „Slováci, Česi a Poliaci pomáhajú Ukrajincom, lebo musia, robia to zo strachu pred Ruskom, nechcú, aby prišli do ich krajín. Maďari pomáhajú nezištne, lebo chcú pomôcť.“
+    > <footer>(Chilla, Zakarpatsko)</footer>
+
+    > „Ako prvé nás spojilo klbko vlny. Naše prvé slovo, ktorému sme obe rozumeli bolo moher.“
+    > <footer>(Zuzka, Banská Štiavnica)</footer>
+
+    > „Ak bude ešte budúcu stredu vojna, tak prídem na štrikovanie…“
+    > <footer>(Marina, Charkiv)</footer>
+
+    > „Každý je na svojom mieste. Môj manžel bojuje vo vojne, ja bojujem našou kultúrou, výšivkou a ukrajinskou vlajkou. Sme v tom spolu.“
+    > <footer>(Marina, Charkiv)</footer>
+
+    ### Workshop
+
+    Bezprostredne na výskumné cesty nadväzovala tvorba libreta budúcej inscenácie. Autorská dvojica Petr Novotný a Tomáš Kout (CZ) v priebehu desiatich dní napísali prvú verziu scenára, ktorý následne upravovali podľa pripomienok dramaturgov a najmä režisérky Jany Mikitkovej (SK) do prvej verzie libreta. Tá bola spolu s vopred pripravenou site specific scénografickou víziou Tomáša Žižku (SK/CZ) podkladom na intenzívnu tvorivú prácu lektorov medzinárodného WORKSHOPU v štyroch najdôležitejších inscenačných zložkách inscenácie HUMAN CARAVANA. Zatiaľ čo Martin Geišberg (SK) trénoval so siedmymi hercami hru na atypické hudobné nástroje i spev a v noci komponoval alebo nahrával originálnu hudbu do pilotnej inscenácie, kostýmová designérka Anna Weszelovszky (HU) na mieste intenzívne tvorila kostýmy z vopred nakúpených i zozbieraných materiálov (spacie vaky) a prispôsobovala ich na telá hercov. Scénograf Tomáš Žižka spolu so svojím technickým asistentom Henrichom Žuchom pripravovali do pouličnej scénografie vizuálne inštalácie a rekvizity: reflektory s dymovým efektom vo vstupnej bráne Starého zámku, veštecké miesto a karty, visiace biele košele v korunách stromov, obrovské hniezdo z konárov v lese, označenie hraníc na plote, lán slnečníc. Tiež upravili káru na ťahanie „nového prechodného domova utečencov“. Medzinárodný tím performerov z Poľska, Maďarska, Česka a Slovenska však najviac fyzicky vyťažil tvorbou významotvorných pohybových dramatických situácií choreograf Ladislav Cmorej (SK), ktorý bol výdatnou posilou non-verbálnej a vizuálno-pohybovej koncepcie inscenácie work in progress režisérky Jany Mikitkovej (SK). Napriek tomu, že trojdňový workshop nemôže nahradiť klasický šesťtýždňový skúšobný proces v divadle, všetci spomenutí tvorcovia a rovnako performeri z partnerských divadiel a umeleckých skupín Slawek Bendykowski, Paulina Lasyk, Mieszko Syc (PL), Gergely Kiss, Bálint Turai (HU), Tereza Kmotorková (SK) a Anton Eliáš (SK/CZ) intenzívne spolupracovali od rána až do neskorej noci s rešpektom k odborným lektorom/tvorcom a zámerom projektu. Svojou prirodzenou ochotou, bezprostrednou ľudskosťou a najmä profesionálnym prístupom prelamovali ľady a spoločne vytvorili priateľský 15-členný umelecký tím pripravený predviesť z tvorivého workshopu 45 minútový pracovný výstup ako možnú časť budúceho veľkého diela, ktorú divákom na premiére a dvoch reprízach v Banskej Štiavnici a okolí prinesie skutočný umelecký a emocionálny zážitok.
+
+    > „Home is where the blue sky is.“
+    > <footer>(Petr Novotný)</footer>
+
+    ### Premiéra pilotu
+
+    Premiéra pilotnej pouličnej inscenácie HUMAN CARAVANA sa uskutočnila len hodinu po otvorení 8. ročníka medzinárodnej prehliadky kabaretných divadiel a pouličného umenia Festival AMPLIÓN 2023 v piatok 22. septembra od 17:00 do cca 17:45 hod. Približne 80 až 90 divákov pritiahol z Námestia sv. Trojice pred bránu Starého zámku 22 členný holandský brass band Orkest de Tegenwind, ktorý vytvoril skvelú atmosféru a potrebné očakávanie publika.
+
+    Inscenácia bola jednoduchým príbehom rodiny so psom, ktorá musela za dramatických okolností opustiť svoj domov. Najskôr sa do neho márne pokúšala vrátiť cez vysoký múr v štýle akrobatickej grotesky, čoskoro však pochopila, že sa musí vydať na dlhú cestu a hľadať nové miesto pre život. Už v tejto fáze performeri zapojili do akcie aj divákov, ktorí spoločne niesli rebrík aj s batožinou. Cestou rodina stretla cigánsku vešticu, ktorá jej z veľkých kariet predpovedala nejednoznačný osud. Na lesnom rázcestí našla spolu s divákmi  dobráckeho pútnika, ktorý členom rodiny ukázal cestu. Tá však bola plná nástrah a nebezpečenstva. Po dlhšom putovaní lesným chodníkom objavili prechodné bydlisko v prírode (hniezdo), kde sa však symbolicky rozlúčili s otcom rodiny, ktorý padol pri obrane ich vlasti. Po ďalšom putovaní so spevom a hudbou objavila rodina starú káru, ktorú len vďaka pomoci divákov dokázali potiahnuť až na hranice novej, neznámej krajiny. Po jej prekonaní sa v novom, slobodnom priestore odohrali dynamické tanečno-pohybové až akrobatické scény s oblečením a spacími vakmi, ktoré symbolizovali nielen pomoc od domorodcov, ale i rivalitu medzi členmi rodiny a cynickou trhovou spoločnosťou. Nakoniec sa spoločne ustálili vo svojom novom domove, útulne zariadenej kočovnej káre, akoby putovní cirkusanti, ktorých nový život sa ešte len začína. Už teraz však pocítili, aké to je, dostať pomocnú ruku. Tú si na záver osobne podali s divákmi, ktorí sa im počas putovania rozhodli pomôcť svojím svetrom, jedlom, či fyzickou silou.
+
+    Inscenácia mala charakter pochôdzkového divadla, jednotlivé výstupy sa odohrávali v podobnej štruktúre ako je krížová cesta na siedmych zastaveniach. Divákov vítal, sprevádzal a po trase usmerňoval v ceste za hercami delegát-moderátor, ktorý na začiatku sľuboval exkurziu do susednej krajiny a zábavnú show. Nasledovala však nečakaná utečenecká tragédia s dlhým putovaním a otvoreným koncom v novej domovine. Takmer celou, inak v podstate non-verbálnou inscenáciou sa niesla zádumčivá ambientná hudba z prenosného reproduktoru a miestami živý chorálový spev účinkujúcich s nástrojmi, ktorá vystihovala a posilňovala atmosféru exodu, hľadania zasľúbenej zeme a zároveň šťastia v nešťastí. Diváci so záujmom i trpezlivosťou absolvovali celý pochod okolo Starého zámku lesným chodníkom až do záhrady Skautského domu, kde tvorcov a performerov odmenili dlhým potleskom. Je preto veľká škoda, že sa v nasledujúcich dvoch dňoch nepodarilo kvôli nepriaznivému daždivému počasiu a ochoreniu herečky uskutočniť ešte dve naplánované reprízy pri Hájovni, Červenej studni na periférii Banskej Štiavnice a pri Oddychovom areáli Kolpingovho domu v Štiavnických Baniach.
+
+    Pilotná premiéra HUMAN CARAVANY bola laboratórium potenciálneho príbehu, formy i medziľudského zbližovania vďaka pouličnému pochôdzkovému divadlu, ktoré na základe dopracovaného scenára do finálnej podoby naštudujú na jar 2024 tvorcovia a performeri štyroch spolupracujúcich divadiel pod názvom CIRCUS CARAVANA. Premiéra je naplánovaná na koniec apríla v Krakove, reprízy sa uskutočnia vo všetkých krajinách V4 aj na Ukrajine.
+
+    > „ICEBREAKING je **odkrývanie** stereotypov v našich hlavách.
+    > **Búranie** škatuliek, do ktorých triedime ľudí – hneď, a už naveky.
+    > **Prelamovanie** predsudkov našich dní.
+    > **Zbližovanie** s tými, ktorých potrebujeme, aby sme prežili.“
+    > <footer>(Jana Mikitková)</footer>
+
+    Zaznamenal Ján Fakla, AND n.o.
+    </details>
