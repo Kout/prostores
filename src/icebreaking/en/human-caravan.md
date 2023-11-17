@@ -3,6 +3,7 @@ layout: base.njk
 title: Human caravan
 equivalent: human-caravan
 displayOrder: 6
+gallery: false
 ---
 
 # {{ title }}

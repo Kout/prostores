@@ -3,6 +3,7 @@ layout: base.njk
 title: Partneři
 equivalent: partners
 displayOrder: 2
+gallery: false
 ---
 
 # {{ title }}

@@ -3,6 +3,7 @@ layout: base.njk
 title: Projekt
 equivalent: project
 displayOrder: 1
+gallery: false
 ---
 
 # {{ title }}

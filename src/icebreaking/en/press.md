@@ -3,6 +3,7 @@ layout: base.njk
 title: Press
 equivalent: press
 displayOrder: 8
+gallery: false
 ---
 
 # {{ title }}

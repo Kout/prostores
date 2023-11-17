@@ -3,6 +3,7 @@ layout: base.njk
 title: International workshop V4
 equivalent: dilna
 displayOrder: 4.5
+gallery: false
 ---
 
 # {{ title }}

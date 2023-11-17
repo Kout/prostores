@@ -3,6 +3,7 @@ layout: base.njk
 title: Mezinárodní dílna V4
 equivalent: workshop
 displayOrder: 4.5
+gallery: false
 ---
 
 # {{ title }}

@@ -3,6 +3,7 @@ layout: base.njk
 title: Circus caravan
 equivalent: circus-caravan
 displayOrder: 7
+gallery: false
 ---
 
 # {{ title }}

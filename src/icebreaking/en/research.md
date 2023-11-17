@@ -3,6 +3,7 @@ layout: base.njk
 title: Research
 equivalent: vyzkum
 displayOrder: 4
+gallery: false
 ---
 
 # {{ title }}

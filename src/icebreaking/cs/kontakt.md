@@ -3,6 +3,7 @@ layout: base.njk
 title: Kontakt
 equivalent: contact
 displayOrder: 10
+gallery: false
 ---
 
 # {{ title }}

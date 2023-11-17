@@ -3,6 +3,7 @@ layout: base.njk
 title: Festival AMPLIÓN
 equivalent: amplifier-festival
 displayOrder: 5
+gallery: false
 ---
 
 # {{ title }}
