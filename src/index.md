@@ -16,6 +16,7 @@ Usilujeme o podporu autorské umělecké tvorby a o spolupráci mezi profesioná
 
 ### Sídlo spolku
 
+Prostores, z. s.
 Na lužci 215/16 
 Praha 6 – Vokovice
 160 00
