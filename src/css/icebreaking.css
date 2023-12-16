@@ -122,7 +122,7 @@
 
     .gallery {
         display: grid;
-        grid-template-columns: repeat(4, 180px);
+        grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
         gap: var(--size-3);
     }
 
@@ -131,7 +131,6 @@
     }
 
     .gallery img {
-        width: 180px;
         height: 120px;
         object-fit: cover;
     }
