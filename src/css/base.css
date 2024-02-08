@@ -1,6 +1,7 @@
 :root {
     --primary: #009fe3;
     --bg: #f4f0e7;
+    --size-content-3: 80ch;
 }
 
 body {
