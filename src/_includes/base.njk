@@ -32,6 +32,18 @@
             </ul>
         </nav>
         <figure>
+            <a href="https://culture.ec.europa.eu/{% if locale === 'cs' %}cs{% endif %}/creative-europe/about-the-creative-europe-programme">
+                <img src="/img/eu-{{ locale }}.png" alt="{% if locale === 'cs' %}Financováno Evropskou unií{% else %}Funded by the European Union{% endif %}" width="800" height="367">
+            </a>
+            <figcaption>
+                {% if locale === 'cs' %}
+                    <p>Financováno Evropskou unií. Vyjádřené názory a stanoviska jsou však výhradně názory autora (autorů) a nemusí nutně odrážet názory a stanoviska Evropské unie nebo agentury EACEA. Evropská unie ani orgán poskytující podporu za ně nemohou nést odpovědnost.</p>
+                {% else %}
+                    <p>Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or EACEA. Neither the European Union nor the granting authority can be held responsible for them.</p>
+                {% endif %}
+            </figcaption>
+        </figure>
+        <figure>
             <a href="https://www.visegradfund.org/">
                 <img src="/img/visegrad_fund.svg" alt="Suported by Visegrad Fund" width="800" height="367">
             </a>
