@@ -52,3 +52,20 @@ gallery: false
 11 WEBINAR / How was the HUMAN CARAVANA created?
 : Webinar from the research, workshop and pilot street performance HUMAN CARAVAN
 : <time datetime="2023-10-26T18:00:00">26. 10. 2023</time> Online via Teams (program according to Facebook event)
+
+12 RESIDENCY I. SK
+: The creative rehearsal process of the new international street performance CIRCUS CARAVAN
+: <time datetime="2024-01-24">24.–28. 1. 2024</time>, Banská Štiavnica, SK
+
+13 RESIDENCY II. CZ
+: The creative rehearsal process of the new international street performance CIRCUS CARAVAN
+: <time datetime="2024-02-14">14.–18. 2. 2024</time>, Prague, CZ
+
+14 RESIDENCY III. HU
+: The creative rehearsal process of the new international street performance CIRCUS CARAVAN
+: <time datetime="2024-03-20">20.–24. 3. 2024</time>, Budapest, HU
+
+15 RESIDENCY IV. PL
+: The creative rehearsal process of the new international street performance CIRCUS CARAVAN
+: <time datetime="2024-04-24">24.–28. 4. 2024</time>, Krakow, PL
+

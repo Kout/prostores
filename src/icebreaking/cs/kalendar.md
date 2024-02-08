@@ -53,3 +53,19 @@ gallery: false
 11 WEBINÁŘ / JAK VZNIKLO PŘEDSTAVENÍ HUMAN CARAVAN?
 : Webinář z výzkumu, workshopu a pilotu pouličního představení Human caravan
 : <time datetime="2023-10-26T18:00:00">26. 10. 2023</time> Online na MS Teams (program dle události na Facebooku)
+
+12 REZIDENCE I. SK
+: Tvůrčí proces zkoušení nového medzinárodního pouličního představení CIRCUS CARAVAN
+: <time datetime="2024-01-24">24.–28. 1. 2024</time>, Banská Štiavnica, SK
+
+13 REZIDENCE II. CZ
+: Tvůrčí proces zkoušení nového medzinárodního pouličního představení CIRCUS CARAVAN
+: <time datetime="2024-02-14">14.–18. 2. 2024</time>, Praha, CZ
+
+14 REZIDENCE III. HU
+: Tvůrčí proces zkoušení nového medzinárodního pouličního představení CIRCUS CARAVAN
+: <time datetime="2024-03-20">20.–24. 3. 2024</time>, Budapesť, HU
+
+15 REZIDENCE IV. PL
+: Tvůrčí proces zkoušení nového medzinárodního pouličního představení CIRCUS CARAVAN
+: <time datetime="2024-04-24">24.–28. 4. 2024</time>, Krakov, PL
