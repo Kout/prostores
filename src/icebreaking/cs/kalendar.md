@@ -61,6 +61,7 @@ gallery: false
 13 REZIDENCE II. CZ
 : Tvůrčí proces zkoušení nového medzinárodního pouličního představení CIRCUS CARAVAN
 : <time datetime="2024-02-14">14.–18. 2. 2024</time>, Praha, CZ
+	+ <time datetime="2024-02-08">8. 2. 2024</time> [Tisková zpráva o rezidenci Circus Caravana v Praze](/files/TZ_cz_Praha_01.pdf)
 
 14 REZIDENCE III. HU
 : Tvůrčí proces zkoušení nového medzinárodního pouličního představení CIRCUS CARAVAN

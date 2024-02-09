@@ -39,7 +39,7 @@ gallery: false
     - <img src="/img/partners/unicef.png" alt="Visegrad fund" width="160">
     {.picnic-partners .list-unstyled}
   </details>
-- <time datetime="2023-09-30">30. 9. 2023</time>: Icebreaking (V4+UA) report z výskumu, workshopu a premiéry pilotu Human Caravana
+- <time datetime="2023-09-30">30. 9. 2023</time>: Icebreaking (V4+UA) report z výzkumu, workshopu a premiéry pilotu Human Caravana
   <details>
     <summary>podrobnosti</summary>
 
@@ -118,4 +118,43 @@ gallery: false
     > <footer>(Jana Mikitková)</footer>
 
     Zaznamenal Ján Fakla, AND n.o.
+    </details>
+- <time datetime="2024-02-08">8. 2. 2024</time>: Tisková zpráva o rezidenci Circus Caravana v Praze
+    <details>
+      <summary>podrobnosti</summary>
+      <h2>Unikátní projekt umělců ze zemí V4 chce probudit empatii k ukrajinským utečencům</h2>
+
+      Umění spojuje a dokáže prolamovat ledy. To je hlavní myšlenka, která svedla dohromady divadelníky ze zemí V4. Společně vytvořili projekt ICEBREAKING jako reakci na válku na Ukrajině, uprchlickou krizi a hlavně klesající ochotu místních pomáhat utečencům. Věří, že pouliční divadlo jim může ukázat, v jaké situaci se Ukrajinci nacházejí, a hlavně částečně zažít, jak se cítí. Divadelníci vsadili na to, že umění rozvíjí empatii a soucit. Snaží se to dělat s humorem a nadhledem, k čemuž je forma cirkusu a pouličního divadla jako stvořená.
+
+      „Spojili jsme se s kolegy z České republiky, Polska a Maďarska, abychom vytvořili mezinárodní pouliční produkci, jejímž cílem je sblížit místní občany V4 s utečenci z Ukrajiny. ICEBREAKING je nonverbální pohybově-vizuální divadlo sociálního začlenění, které vypráví příběhy lidí ve smíšených komunitách. Jde o to odkrývat stereotypy v hlavě, uvědomit si, že jsme všichni stejní lidé a měli bychom si v případě potřeby pomáhat,“ vysvětluje Ján Fakla, ředitel Ansámblu nepravidelného divadla (AND n.o.), který se na projektu za slovenskou stranu podílí.
+
+      Partnerem projektu je kromě slovenského AND n.o. také jeden z nejrespektovanějších profesionálních polských souborů Teatr KTO, české kabaretní divadlo KRVIK TOTR (Prostores, z. s.) a maďarská skupina nového cirkusu Firebirds. Umělci také spolupracují s nezávislým ukrajinským uměleckým souborem WE: MEDIA THEATER, který působí v oblasti multimediálního divadla. Icebreaking má tři fáze, z nichž první již byla realizována a ukázala divadelníkům, že tento projekt má smysl. Ve 4 hlavních městech zemí V4 již realizovali výzkum v ukrajinské komunitě spolu se sociálně-inkluzivními aktivitami s místními občany. Seznámili se s osudy a postoji desítek Ukrajinců, kteří svou situaci vnímají velmi individuálně. Některým se podařilo najít nový domov v nové zemi, jiní se touží vrátit na Ukrajinu, mnozí žijí ve vzpomínkách, další jsou odhodláni bránit svou vlast všemi prostředky. To vše se stalo součástí workshopu a pilotní pouliční inscenace HUMAN CARAVANA, kterou mohli vidět návštěvníci zářijového Festivalu AMPLIÓN – Nový kabaret & pouliční umění v Banské Štiavnici.
+
+      „Odezva byla fantastická. Snažili jsme se do představení zapojit i návštěvníky, aby si například vyzkoušeli, jaké to je putovat bez všeho dlouhé dny neznámou krajinou. Naším cílem je uměním bořit předsudky a myslíme si, že naše pouliční produkce dokázala lidi vtáhnout do děje a uvědomit si, jak se všichni navzájem potřebujeme. Proto se těšíme na další fázi projektu, do které právě vstupujeme,“ vysvětlila dramaturgyně a ředitelka Ansámblu nepravidelného divadla Jana Mikitková.
+      
+      Druhá fáze projektu ICEBREAKING byla zahájena na Slovensku – rezidencí v Banské Štiavnici.
+
+      A od 14. do 18. února 2024 pokračuje v Praze, ve Studiu Lenky Wagnerové Na Košince. Tam se opět setkají divadelníci ze všech 4 zemí a budou zkoušet novou inscenaci pouličního divadla CIRKUS CARAVANA. Součástí rezidence bude také promítání videoreportáže z výzkumu ICEBREAKING ukrajinských filmařů.
+
+      „Takové rezidence pak proběhnou ještě v březnu v Budapešti a v dubnu v Krakově, kde hru nakonec uvedeme v premiéře. Následně s ní plánujeme vycestovat do zemí V4 a na Ukrajinu. Domníváme se, že téma sbližování lidí, kultur a náboženství je mimořádně aktuální a v dnešním globalizovaném světě je nejvyšší čas, abychom se mu náležitě věnovali. Naše vystoupení se tedy nezastaví u ukrajinských utečenců.  Jsou i další marginalizované skupiny lidí, o kterých je třeba více hovořit. I prostřednictvím umění,“ přiblížil Ján Fakla vizi projektu do budoucna.
+      
+      Na projektu se dále podílejí Tomáš Žižka (scénograf zaměřený na site-specific), maďarská kostymérka a cirkusová performerka Anna Weszelovszky, slovenský choreograf Ladislav Cmorej (mj. Slovenské národné divadlo) a další. V desítce herců ze všech čtyř zemí najdete mj. Danielu Voráčkovou (Divadlo bratří Formanů aj.), Antona Eliáše (Národní divadlo aj.), Angelu Nwagbo (DAMU) a herce a herečky polského Teatro KTO a maďarských Firebirds. Za scénářem stojí Petr Jediný Novotný (mj. pedagog DAMU) a Tomáš Kout (oba tvoří autorský soubor Krvik Totr), supervize se zhostil slavný polský režisér Jerzy Zoń. Režii má Jana Mikitková z Ansámblu nepravidelného divadla.
+     
+      Podívejte se na aftermovie z [podzimní části projektu s názvem Human caravan](/cs/human-caravan/).
+
+      Projekt je financován Evropskou unií. #CreativeEurope  
+      (Vyjádřené názory a stanoviska jsou však výhradně názory autorů a nemusí nutně odrážet názory a stanoviska Evropské unie nebo agentury EACEA. Evropská unie ani orgán poskytující podporu za ně nemohou nést odpovědnost.)
+
+      Zdroj: [Ansámbel nepravidelného divadla n.o.](https://and-theatre.art/icebreaking/), Banská Štiavnica, Slovensko
+      [Facebook](https://www.facebook.com/andtheatre.sk ) | [Instagram](https://www.instagram.com/ansambelnepravidelnehodivadla/ ) | [YouTube](https://www.youtube.com/@and-theatre/videos )
+
+      <h3>Kontakt pro média</h3> 
+
+      <address>
+        **Eva Sládková** (SK), PR & media specialist
+        evasladkova48@gmail.com, [+421 903 576 184](tel:+421903576184)
+        
+        **Ema Rajčanová** (SK/CZ), PR & social media
+        rajcanovaem@gmail.com, [+421 911 278 119](tel:+421911278119)
+      </address>
     </details>
