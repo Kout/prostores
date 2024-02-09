@@ -9,12 +9,13 @@ const sortByDisplayOrder = require('./src/utils/sort-by-display-order.js');
 const markdownIt = require('markdown-it');
 const markdownItAttrs = require('markdown-it-attrs');
 const markdownItDeflist = require('markdown-it-deflist');
+const markdownItLinkAttrs = require('markdown-it-link-attributes');
 const markdownItOptions = {
   html: true,
   breaks: true,
   linkify: true
 }
-const markdownLib = markdownIt(markdownItOptions).use(markdownItAttrs).use(markdownItDeflist)
+const markdownLib = markdownIt(markdownItOptions).use(markdownItAttrs).use(markdownItDeflist).use(markdownItLinkAttrs)
 
 module.exports = config => {
     // Add filters
