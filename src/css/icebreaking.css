@@ -29,7 +29,8 @@
         margin-block-end: var(--size-1);
     }
 
-    dd + dd {
+    dd + dd,
+    figcaption {
         margin-block-end: var(--size-4);
         color: var(--gray-6);
         font-weight: var(--font-weight-5);
