@@ -8,6 +8,8 @@ gallery: false
 
 # {{ title }}
 
-<img src="/img/icebreaking-2D-positiv.png" alt="Icebreaking" width="600" height="283">
 
-Na stránce se usilovně pracuje
+<figure>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/cSXapiQY_2Y?si=WOyFdwNAka3p9Ko-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	<figcaption>Video report from research in V4 countries in production of WE: MEDIA THEATRE (UA)</figcaption>
+</figure>

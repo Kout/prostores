@@ -192,4 +192,9 @@ Změna programu vyhrazena.
 
 ---
 
+<figure>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/cSXapiQY_2Y?si=WOyFdwNAka3p9Ko-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	<figcaption>Video report z výzkumu v zemích V4 v produkci WE: MEDIA THEATRE (UA)</figcaption>
+</figure>
+
 Koordinátorem projektu je [Ansámbel nepravidelného divadla n.o](https://www.and-theatre.art/icebreaking-sk/).
