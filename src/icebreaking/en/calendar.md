@@ -69,3 +69,31 @@ gallery: false
 : The creative rehearsal process of the new international street performance CIRCUS CARAVAN
 : <time datetime="2024-04-24">24.–28. 4. 2024</time>, Krakow, PL
 
+16 CIRCUS CARAVANA V4+UA – PREMIERE, PL
+: Premiere of the new international street performance CIRCUS CARAVANA (V4)
+: Premiere of the short film documentary CHIEF OF THE CIRCUS (UA)
+: <time datetime="2024-04-28">28. 4. 2024</time>, Krakow, PL
+
+17 CIRCUS CARAVANA – RERUN 1, CZ
+: First rerun of the new international street performance CIRCUS CARAVANA
+: <time datetime="2024-06-06">6. 6. 2024</time>, Krnov, CZ
+
+18 CIRCUS CARAVANA – RERUN 2, PL
+: Second rerun of the new international street performance CIRCUS CARAVANA
+: <time datetime="2024-07-05">5. 7. 2024</time>, Limanowa, PL (International festival STREET)
+
+19 CIRCUS CARAVANA – RERUN 3, PL
+: Third rerun of the new international street performance CIRCUS CARAVANA
+: <time datetime="2024-07-06">6. 7. 2024</time>, Niepołomice, PL (International festival STREET)
+
+20 CIRCUS CARAVANA – RERUN 4, PL
+: Fourth rerun of the new international street performance CIRCUS CARAVANA
+: <time datetime="2024-07-07">7. 7. 2024</time>, Krakow, PL (International festival STREET)
+
+21 CIRCUS CARAVANA – RERUN 5, CZ
+: Fifth rerun of the new international street performance CIRCUS CARAVANA
+: <time datetime="2024-07-16">16. 7. 2024</time>, Praha, CZ (Festival Za dveřmi)
+
+22 CIRCUS CARAVANA – RERUN 6, SK
+: Sixth rerun of the new international street performance CIRCUS CARAVANA
+: <time datetime="2024-09-21">21. 9. 2024</time>, Banská Štiavnica, SK (International AMPLIFIER Festival)

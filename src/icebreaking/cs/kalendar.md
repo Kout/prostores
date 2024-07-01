@@ -70,3 +70,32 @@ gallery: false
 15 REZIDENCE IV. PL
 : Tvůrčí proces zkoušení nového medzinárodního pouličního představení CIRCUS CARAVAN
 : <time datetime="2024-04-24">24.–28. 4. 2024</time>, Krakov, PL
+
+16 CIRCUS CARAVANA V4+UA – PREMIÉRA, PL
+: Premiéra nového mezinárodního pouličního vystoupení CIRCUS CARAVANA (V4)
+: Premiéra krátkého filmového dokumentu CHIEF OF THE CIRCUS (UA)
+: <time datetime="2024-04-28">28. 4. 2024</time>, Krakov, PL
+
+17 CIRCUS CARAVANA – REPRÍZA 1, CZ
+: 1. repríza mezinárodního pouličního vystoupení CIRCUS CARAVANA
+: <time datetime="2024-06-06">6. 6. 2024</time>, Krnov, CZ
+
+18 CIRCUS CARAVANA – REPRÍZA 2, PL
+: 2. repríza mezinárodního pouličního vystoupení CIRCUS CARAVANA
+: <time datetime="2024-07-05">5. 7. 2024</time>, Limanowa, PL (Mezinárodní festival Ulica)
+
+19 CIRCUS CARAVANA – REPRÍZA 3, PL
+: 3. repríza mezinárodního pouličního vystoupení CIRCUS CARAVANA
+: <time datetime="2024-07-06">6. 7. 2024</time>, Niepołomice, PL (Mezinárodní festival Ulica)
+
+20 CIRCUS CARAVANA – REPRÍZA 4, PL
+: 4. repríza mezinárodního pouličního vystoupení CIRCUS CARAVANA
+: <time datetime="2024-07-07">7. 7. 2024</time>, Krakov, PL (Mezinárodní festival Ulica)
+
+21 CIRCUS CARAVANA – REPRÍZA 5, CZ
+: 5. repríza mezinárodního pouličního vystoupení CIRCUS CARAVANA
+: <time datetime="2024-07-16">16. 7. 2024</time>, Praha, CZ (Festival Za dveřmi)
+
+22 CIRCUS CARAVANA – REPRÍZA 6, SK
+: 6. repríza mezinárodního pouličního vystoupení CIRCUS CARAVANA
+: <time datetime="2024-09-21">21. 9. 2024</time>, Banská Štiavnica, SK (Mezinárodní festival Amplión)
