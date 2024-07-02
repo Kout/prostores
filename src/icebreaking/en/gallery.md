@@ -717,3 +717,116 @@ gallery: true
 <h2>Video – Human caravana Banská Štiavnica</h2>
 
 <iframe data-placeholder-image="https://www.and-theatre.art/wp-content/uploads/complianz/placeholders/youtube-ytKNl4xSfU-maxresdefault.webp" data-src-cmplz="https://www.youtube.com/embed/-ytKNl4xSfU?feature=oembed" title="HUMAN CARAVANA | aftermovie" width="1080" height="608" src="https://www.youtube.com/embed/-ytKNl4xSfU?feature=oembed" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
+<h2>CIRCUS CARAVANA premiere Krakow</h2>
+
+<section class="gallery js-gallery" id="gallery-krakow-premiere">
+	<a href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_01.jpg">
+		<img loading="lazy" alt="" width="1400" height="935" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_01-1400x935.jpg.webp">
+	</a>
+	<a href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_03.jpg">
+		<img loading="lazy" alt="" width="1400" height="935" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_03-1400x935.jpg.webp">
+	</a>
+	<a href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_04.jpg">
+		<img loading="lazy" alt="" width="1400" height="935" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_04-1400x935.jpg.webp">
+	</a>
+	<a href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_05.jpg">
+		<img loading="lazy" alt="" width="1400" height="935" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_05-1400x935.jpg.webp">
+	</a>
+	<a href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_08.jpg">
+		<img loading="lazy" alt="" width="1400" height="935" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_08-1400x935.jpg.webp">
+	</a>
+	<a href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_10.jpg">
+		<img loading="lazy" alt="" width="1400" height="935" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_10-1400x935.jpg.webp">
+	</a>
+	<a href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_11.jpg">
+		<img loading="lazy" alt="" width="1400" height="935" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_11-1400x935.jpg.webp">
+	</a>
+	<a href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_12.jpg">
+		<img loading="lazy" alt="" width="1400" height="935" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_12-1400x935.jpg.webp">
+	</a>
+	<a href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_13.jpg">
+		<img loading="lazy" alt="" width="1400" height="935" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_13-1400x935.jpg.webp">
+	</a>
+	<a data-width="1400" data-height="2097" href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_15.jpg">
+		<img loading="lazy" alt="" width="1400" height="2097" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_15-1400x2097.jpg.webp">
+	</a>
+	<a data-width="1400" data-height="2097" href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_16.jpg">
+		<img loading="lazy" alt="" width="1400" height="2097" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_16-1400x2097.jpg.webp">
+	</a>
+	<a href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_17.jpg">
+		<img loading="lazy" alt="" width="1400" height="935" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_17-1400x935.jpg.webp">
+	</a>
+	<a data-width="1400" data-height="2097" href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_19.jpg">
+		<img loading="lazy" alt="" width="1400" height="2097" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_19-1400x2097.jpg.webp">
+	</a>
+	<a href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_20.jpg">
+		<img loading="lazy" alt="" width="1400" height="935" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_20-1400x935.jpg.webp">
+	</a>
+	<a data-width="1400" data-height="2097" href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_21.jpg">
+		<img loading="lazy" alt="" width="1400" height="2097" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_21-1400x2097.jpg.webp">
+	</a>
+	<a data-width="1400" data-height="2097" href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_22.jpg">
+		<img loading="lazy" alt="" width="1400" height="2097" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_22-1400x2097.jpg.webp">
+	</a>
+	<a href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_23.jpg">
+		<img loading="lazy" alt="" width="1400" height="935" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_23-1400x935.jpg.webp">
+	</a>
+	<a href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_25.jpg">
+		<img loading="lazy" alt="" width="1400" height="935" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_25-1400x935.jpg.webp">
+	</a>
+	<a href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_26.jpg">
+		<img loading="lazy" alt="" width="1400" height="935" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_26-1400x935.jpg.webp">
+	</a>
+	<a href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_27.jpg">
+		<img loading="lazy" alt="" width="1400" height="935" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_27-1400x935.jpg.webp">
+	</a>
+	<a href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_28.jpg">
+		<img loading="lazy" alt="" width="1400" height="935" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_28-1400x935.jpg.webp">
+	</a>
+	<a data-width="1400" data-height="2097" href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_29.jpg">
+		<img loading="lazy" alt="" width="1400" height="2097" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_29-1400x2097.jpg.webp">
+	</a>
+	<a href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_30.jpg">
+		<img loading="lazy" alt="" width="1400" height="935" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_30-1400x935.jpg.webp">
+	</a>
+	<a href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_31.jpg">
+		<img loading="lazy" alt="" width="1400" height="935" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_31-1400x935.jpg.webp">
+	</a>
+	<a href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_32.jpg">
+		<img loading="lazy" alt="" width="1400" height="935" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_32-1400x935.jpg.webp">
+	</a>
+	<a href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_36.jpg">
+		<img loading="lazy" alt="" width="1400" height="935" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_36-1400x935.jpg.webp">
+	</a>
+	<a href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_37.jpg">
+		<img loading="lazy" alt="" width="1400" height="935" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_37-1400x935.jpg.webp">
+	</a>
+	<a href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_38.jpg">
+		<img loading="lazy" alt="" width="1400" height="935" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_38-1400x935.jpg.webp">
+	</a>
+	<a href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_40.jpg">
+		<img loading="lazy" alt="" width="1400" height="935" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_40-1400x935.jpg.webp">
+	</a>
+	<a href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_41.jpg">
+		<img loading="lazy" alt="" width="1400" height="935" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_41-1400x935.jpg.webp">
+	</a>
+	<a href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_42.jpg">
+		<img loading="lazy" alt="" width="1400" height="935" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_42-1400x935.jpg.webp">
+	</a>
+	<a href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_43.jpg">
+		<img loading="lazy" alt="" width="1400" height="935" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_43-1400x935.jpg.webp">
+	</a>
+	<a href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_44.jpg">
+		<img loading="lazy" alt="" width="1400" height="935" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_44-1400x935.jpg.webp">
+	</a>
+	<a href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_45.jpg">
+		<img loading="lazy" alt="" width="1400" height="935" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_45-1400x935.jpg.webp">
+	</a>
+	<a href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_47.jpg">
+		<img loading="lazy" alt="" width="1400" height="935" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_47-1400x935.jpg.webp">
+	</a>
+	<a data-width="1400" data-height="2097" href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_48.jpg">
+		<img loading="lazy" alt="" width="1400" height="2097" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_48-1400x2097.jpg.webp">
+	</a>	
+</section>
