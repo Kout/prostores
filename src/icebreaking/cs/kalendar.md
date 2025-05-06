@@ -77,25 +77,49 @@ gallery: false
 : <time datetime="2024-04-28">28. 4. 2024</time>, Krakov, PL
 
 17 CIRCUS CARAVANA – REPRÍZA 1, CZ
-: 1. repríza mezinárodního pouličního vystoupení CIRCUS CARAVANA
+:  1. repríza mezinárodního pouličního vystoupení CIRCUS CARAVANA
 : <time datetime="2024-06-06">6. 6. 2024</time>, Krnov, CZ
 
 18 CIRCUS CARAVANA – REPRÍZA 2, PL
-: 2. repríza mezinárodního pouličního vystoupení CIRCUS CARAVANA
+:   2. repríza mezinárodního pouličního vystoupení CIRCUS CARAVANA
 : <time datetime="2024-07-05">5. 7. 2024</time>, Limanowa, PL (Mezinárodní festival Ulica)
 
 19 CIRCUS CARAVANA – REPRÍZA 3, PL
-: 3. repríza mezinárodního pouličního vystoupení CIRCUS CARAVANA
+:   3. repríza mezinárodního pouličního vystoupení CIRCUS CARAVANA
 : <time datetime="2024-07-06">6. 7. 2024</time>, Niepołomice, PL (Mezinárodní festival Ulica)
 
 20 CIRCUS CARAVANA – REPRÍZA 4, PL
-: 4. repríza mezinárodního pouličního vystoupení CIRCUS CARAVANA
+:   4. repríza mezinárodního pouličního vystoupení CIRCUS CARAVANA
 : <time datetime="2024-07-07">7. 7. 2024</time>, Krakov, PL (Mezinárodní festival Ulica)
 
 21 CIRCUS CARAVANA – REPRÍZA 5, CZ
-: 5. repríza mezinárodního pouličního vystoupení CIRCUS CARAVANA
+:   5. repríza mezinárodního pouličního vystoupení CIRCUS CARAVANA
 : <time datetime="2024-07-16">16. 7. 2024</time>, Praha, CZ (Festival Za dveřmi)
 
 22 CIRCUS CARAVANA – REPRÍZA 6, SK
-: 6. repríza mezinárodního pouličního vystoupení CIRCUS CARAVANA
+:   6. repríza mezinárodního pouličního vystoupení CIRCUS CARAVANA
 : <time datetime="2024-09-21">21. 9. 2024</time>, Banská Štiavnica, SK (Mezinárodní festival Amplión)
+
+23 CIRCUS CARAVANA – REPRÍZA 7, SK
+:   7. repríza mezinárodního pouličního vystoupení CIRCUS CARAVANA
+: <time datetime="2025-05-31">31. 5. 2025</time>, Trenčín, SK (Európsky Festival Pantomímy Milana Sládka)
+
+24 CIRCUS CARAVANA – REPRÍZA 8, SK
+:   8. repríza mezinárodního pouličního vystoupení CIRCUS CARAVANA
+: <time datetime="2025-06-1">1. 6. 2025</time>, Humenné, SK (Mesto kultúry SR 2024/25)
+
+25 CIRCUS CARAVANA – REPRÍZA 9, SK
+:   9. repríza mezinárodního pouličního vystoupení CIRCUS CARAVANA
+: <time datetime="2025-06-28">28. 6. 2025</time>, Zvolen, SK
+
+26 CIRCUS CARAVANA – REPRÍZA 10, SK
+:   10. repríza mezinárodního pouličního vystoupení CIRCUS CARAVANA
+: <time datetime="2025-06-29">29. 6. 2025</time>, Banská Bystrica, SK
+
+27 CIRCUS CARAVANA – REPRÍZA 11, HU
+:   11. repríza mezinárodního pouličního vystoupení CIRCUS CARAVANA
+: <time datetime="2025-07-21">21. 7. 2025</time>, Veszprém, HU (Művészetek Völgye/Valley of Arts Festival)
+
+28 CIRCUS CARAVANA – REPRÍZA 12, HU
+:   12. repríza mezinárodního pouličního vystoupení CIRCUS CARAVANA
+: <time datetime="2025-07-21">21. 7. 2025</time>, Veszprém, HU (VMűvészetek Völgye/alley of Arts Festival)

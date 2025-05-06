@@ -97,3 +97,27 @@ gallery: false
 22 CIRCUS CARAVANA – RERUN 6, SK
 : Sixth rerun of the new international street performance CIRCUS CARAVANA
 : <time datetime="2024-09-21">21. 9. 2024</time>, Banská Štiavnica, SK (International AMPLIFIER Festival)
+
+23 CIRCUS CARAVANA – RERUN 7, SK
+: Seventh rerun of the new international street performance CIRCUS CARAVANA
+: <time datetime="2025-05-31">31. 5. 2025</time>, Trenčín, SK (European Mime Fest thanks Milan Sladek)
+
+24 CIRCUS CARAVANA – RERUN 8, SK
+: Eighth rerun of the new international street performance CIRCUS CARAVANA
+: <time datetime="2025-06-1">1. 6. 2025</time>, Humenné, SK (The City of Culture of Slovakia 2024/25)
+
+25 CIRCUS CARAVANA – RERUN 9, SK
+: Ninth rerun of the new international street performance CIRCUS CARAVANA
+: <time datetime="2025-06-28">28. 6. 2025</time>, Zvolen, SK
+
+26 CIRCUS CARAVANA – RERUN 10, SK
+: Tenth rerun of the new international street performance CIRCUS CARAVANA
+: <time datetime="2025-06-29">29. 6. 2025</time>, Banská Bystrica, SK
+
+27 CIRCUS CARAVANA – RERUN 11, HU
+: Eleventh rerun of the new international street performance CIRCUS CARAVANA
+: <time datetime="2025-07-21">21. 7. 2025</time>, Veszprém, HU (Valley of Arts Festival)
+
+28 CIRCUS CARAVANA – RERUN 12, HU
+: Twelfth rerun of the new international street performance CIRCUS CARAVANA
+: <time datetime="2025-07-21">21. 7. 2025</time>, Veszprém, HU (Valley of Arts Festival)

@@ -830,3 +830,15 @@ gallery: true
 		<img loading="lazy" alt="" width="1400" height="2097" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_48-1400x2097.jpg.webp">
 	</a>	
 </section>
+
+
+<h2>Reprízy</h2>
+
+(photoalbum on facebook page of AND theatre)
+
+1. [rerun, Krnov 6/6/2024](https://www.facebook.com/media/set/?set=a.1094655282108742&type=3)
+1. [rerun, Limanowa, 5/7/2024](https://www.facebook.com/media/set/?set=a.1205684051005864&type=3)
+1. [rerun, Niepolomice, 6/7/2024](https://www.facebook.com/media/set/?set=a.1313594280214840&type=3)
+1. [rerun, Krakov, 7/7/2024](https://www.facebook.com/media/set/?set=a.1313604890213779&type=3)
+1. [rerun, Praha, 16/7/2024](https://www.facebook.com/media/set/?set=a.1205696721004597&type=3)
+1. [rerun, Banská Štiavnica, 21/9/2024](https://www.facebook.com/media/set/?set=a.1189526379288298&type=3)

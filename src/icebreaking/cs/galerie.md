@@ -827,5 +827,16 @@ gallery: true
 	</a>
 	<a data-width="1400" data-height="2097" href="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_48.jpg">
 		<img loading="lazy" alt="" width="1400" height="2097" src="https://and-theatre.art/wp-content/uploads/2024/05/Circus-Caravana_premiere_Krakow_april-2024_AN_48-1400x2097.jpg.webp">
-	</a>	
+	</a>
 </section>
+
+<h2>Reprízy</h2>
+
+(fotoalba na facebookové stránce Ansámbelu nepravidelného divadla)
+
+1. [repríza **Krnov**, 6. 6. 2024](https://www.facebook.com/media/set/?set=a.1094655282108742&type=3)
+1. [repríza **Limanowa**, 5. 7. 2024](https://www.facebook.com/media/set/?set=a.1205684051005864&type=3)
+1. [repríza **Niepolomice**, 6. 7. 2024](https://www.facebook.com/media/set/?set=a.1313594280214840&type=3)
+1. [repríza **Krakov**, 7. 7. 2024](https://www.facebook.com/media/set/?set=a.1313604890213779&type=3)
+1. [repríza **Praha**, 16. 7. 2024](https://www.facebook.com/media/set/?set=a.1205696721004597&type=3)
+1. [repríza **Banská** Štiavnica, 21. 9. 2024](https://www.facebook.com/media/set/?set=a.1189526379288298&type=3)
