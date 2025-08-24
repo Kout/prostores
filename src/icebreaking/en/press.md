@@ -89,7 +89,7 @@ gallery: false
     Recorded by Ján Fakla, AND n.o.
   </details>
 
-- <time datetime="2024-10-01">1 10. 2024</time>: Icebreaking (V4+UA) report from the research, workshop and premiere of the Human Caravana pilot
+- <time datetime="2024-10-01">1. 10. 2024</time>: Icebreaking (V4+UA) report from the research, workshop and premiere of the Human Caravana pilot
   <details>
     <summary>details</summary>
 
@@ -145,6 +145,11 @@ gallery: false
     **The sixth reprise** on 21 September 2024 in Banská Štiavnica was also the Slovak premiere at 9th AMPLIFIER Festival − New Cabaret & Street Art 2024. It took place at 15:30 on the asphalt area of the Secondary Vocational School of Services and Forestry under the Drieňová housing estate, where many local spectators came from. The mixed festival audience included families with children, domesticated Ukrainian expatriates, overlanders from Banská Bystrica, Zvolen and other towns in Slovakia, about 140-150 people in total. The performance had a dynamic, smooth and steady course, the performers played convincingly and with high commitment, which was appreciated by the audience at the end with a long and hearty applause and in some places with shouts of “brava”.
     
     [photo](https://www.facebook.com/media/set/?set=a.1189526379288298)
+  </details>
+
+- <time datetime="2025-08-01">1. 8. 2025</time>: Icebreaking (V4+UA) report from reruns
+  <details>
+    <summary>details</summary>
 
     After a winter-spring break, on May 31, 2025, an international team of performers from the V4 countries played their seventh reprise at Považie, as part of the first annual European Mime Fest thanks to Milan Sládek. At 4 PM, there were reportedly up to two thousand people at Mierové Square in Trenčín, but most visitors were attracted by the wine tasting. Despite the distracting circulation of passing wine lovers, 160 to 200 seated or standing adults and children watched attentively the acting, juggling, and artistic skills of the international group of performers, who, even six months after the last performance, had lost none of their freshness, dynamism, and joy of performing. This was despite the fact that there was one change in the cast. African-Czech performer Angela Nwagbo was replaced in the role of Phoenix by Japanese-Czech actress and dancer Marie Sawa, who handled the preparations in Prague and the premiere in Trenčín excellently. Her performance was appreciated not only by the applauding audience, but also by her colleagues, who, of course, helped her a lot. Participants of the new international festival were also present in the audience.
     
