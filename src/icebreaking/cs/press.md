@@ -178,17 +178,66 @@ gallery: false
 
       <strong>První repríza</strong> se uskutečnila ve čtvrtek 6. června 2024 v severomoravském Krnově, kde se v 17:00 sešli v centru Hlavního náměstí především mladí lidé a rodiče s dětmi. Asi 150 diváků neodradila ani letní dešťová přeháňka uprostřed představení. Neodešli, naopak jej sledovali z laviček v hledišti většinou pod deštníky, které jim pohotově dodal místní pořadatel (galerie Edel). Zahřátí a uvolnění účinkující předvedli reprízu ve skvělé formě a bez přerušení, dokonce s novým propracovaným závěrem, který spolu s režisérem a choreografem nacvičili později dopoledne za přirozeného zájmu kolemjdoucích a zejména dětí z mateřské školy. I přes nepřízeň počasí se diváci bavili a vřele ocenili umělecké a artistické výkony i „nepromokavost“ účinkujících při závěrečném potlesku. Krátce po skončení reprízy se v Městské kavárně uskutečnilo promítání dokumentárního filmu ŠÉF CIRKUSU. Po něm členové AND diskutovali s diváky a místními dobrovolníky o situaci na Ukrajině.
 
+      [fotky](https://www.facebook.com/media/set/?set=a.1094655282108742)
+
       <strong>Druhou, třetí a čtvrtou reprízu</strong> uspořádal partnerský Teatr KTO z Krakova (PL) v rámci 37. ročníku mezinárodního festivalu ULICA. Součástí jsou i výjezdy uměleckých souborů s jejich inscenacemi do okolních měst a také do centra Krakova. Zájem a návštěvnost pouličních představení je v těchto městech a zejména v Krakově již řadu let vysoká. Vzhledem k tomu, že v této oblasti tvoří ukrajinští emigranti asi 10 % obyvatelstva, byla účast ukrajinských žen a dětí na festivalu přirozená.
 
       Druhá repríza se konala v městečku Limanowa (PL), kam se v horkém letním odpoledni 5. července 2024 v 16:00 hodin přišlo podívat na představení CIRKUS CARAVANA asi 140-150 místních diváků. Místní pořadatelé zajistili židle k sezení a technickou podporu na nekrytém otevřeném městském okruhu. Produkce se stabilizovala, účinkující předvedli skvělé herecké výkony a zcela se zapotili v kostýmech. Navzdory parnému počasí udrželi pozornost malých i velkých diváků vysokým tempem a procítěnými projevy až do závěrečného potlesku.
 
+      [fotky](https://www.facebook.com/media/set/?set=a.1205684051005864)
+
       Usporiadatelia tretej reprízy zabezpečili pre divákov na Miestnom rýnku (inak parkovisku) v centre mesta Niepołomice (PL) 80 plážových lehátok. Horúce slnko pražilo celý deň, a preto každý divák, ktorý dal 6. júla 2024 medzi 16:00 a 17:15 hod. prednosť CIRCUS CARAVANE pred kúpaliskom bol kultúrnym hrdinom. Ešte väčším bol aj medzinárodný tím performerov a technikov konzorcia Icebreaking, ktorí na rozpálenom námestí podávali takmer heroické výkony. Nakoniec zaujali až cca 90 divákov, ktorí svojou výdržou i reakciami v ležiacej, či stojacej polohe ocenili ich profesionálny prístup. Atmosféru zpříjemňovala nedaleká vodní fontána.
+
+      [fotky](https://www.facebook.com/media/set/?set=a.1313594280214840)
 
       <strong>Čtvrtá repríza</strong> na velkém Hlavním náměstí v Krakově (PL) byla nejnáročnější nejen z hlediska velkého prostoru, ale zejména z hlediska udržení pozornosti početného publika (850-1000 lidí), které představení CIRKUS CARAVANA sledovalo ze všech čtyř stran. Uskutečnilo se v neděli 7. července 2024 ve 13:00 během vyvrcholení mezinárodního festivalu ULICA, kde na stejném náměstí paralelně probíhaly další pouliční produkce. Část diváků před jevištěm sledovala představení na židlích a na zemi, část kolem za zábranami a část migrovala po náměstí. Byla to nejen obrovská zkouška hereckých schopností účinkujících, ale také zkouška nosnosti příběhu a myšlenky inscenace v tak obrovském prostoru se vším okolním ruchem (kavárenské terasy, koňské povozy, různé zvuky). Tým účinkujících a techniků to zvládl s přehledem, ale také se ctí a dlouhým závěrečným potleskem velmi vděčného publika.
 
+      [fotky](https://www.facebook.com/media/set/?set=a.1313604890213779)
+
       <strong>Pátá repríza</strong> se konala 16. července 2024 od 18:15 v příjemné večerní atmosféře na 16. ročníku mezinárodního festivalu Za dveřmi v Praze. Před zhruba 160-170 diváky představili v exteriéru Holešovické tržnice artisté z Polska, Maďarska, České republiky a Slovenska příběh cirkusových umělců prchajících před válkou a jejich (ne)přijetí v evropské zemi. Představení zhlédli nejen festivaloví diváci, čeští i zahraniční účinkující, početní Pražané od 3 do 99 let, ale i ukrajinští diváci dočasně žijící v Praze. Jeden z nich, Olexandr, bývalý klaun z Charkova, přišel osobně poděkovat účinkujícím za představení, které mu dalo naději na lepší budoucnost, a pozval je na klaunský festival, který v Praze připravuje.
+
+      [fotky](https://www.facebook.com/media/set/?set=a.1205696721004597)
 
       <strong>Šestá repríza</strong> 21. září 2024 v Banské Štiavnici byla zároveň slovenskou premiérou na 9. ročníku festivalu AMPLIÓN - Nový kabaret & Street Art 2024. Uskutečnila se v 15:30 hodin na asfaltové ploše Střední odborné školy služeb a lesnictví pod sídlištěm Drieňová, odkud přišlo mnoho místních diváků. Smíšené festivalové publikum tvořily rodiny s dětmi, zdomácnělí ukrajinští emigranti, přespolní z Banské Bystrice, Zvolena a dalších slovenských měst, celkem asi 140-150 lidí. Vystoupení mělo dynamický, plynulý a vyrovnaný průběh, účinkující hráli přesvědčivě a s vysokým nasazením, což diváci na závěr ocenili dlouhým a srdečným potleskem a místy i výkřiky „bravó“.
 
+      [fotky](https://www.facebook.com/media/set/?set=a.1189526379288298)
+
       Zaznamenal Ján Fakla, AND n.o.
     </details>
+
+- <time datetime="2025-08-01">1. 8. 2025</time>: Tisková zpráva o posledních 6 reprízách Circus Caravana
+  <details>
+    <summary>podrobnosti</summary>
+
+    ## Zpráva o představeních CIRCUS CARAVANA
+
+    Po zimně-jarní přestávce odehrál 31. května 2025 mezinárodní tým performerů ze zemí V4 **sedmou reprízu** na Považí, v rámci prvního ročníku European Mime Fest thanks Milan Sládek. Na Mírovém náměstí v Trenčíně se ve 16:00 nacházelo údajně až dva tisíce lidí, ale většinu návštěvníků tam přilákala vinná procházka. Navzdory rušivé cirkulaci kolemjdoucích přátel vína však 160 až 200 sedících či stojících dospělých a dětí pozorně sledovalo herecké, žonglovací a artistické dovednosti mezinárodního týmu performerů, který ani po půl roce od poslední reprízy neztratil nic na svěžesti, dynamice a radosti ze hry. A to navzdory tomu, že v obsazení došlo i k jedné alternaci. Africko-českou performerku Angelu Nwagbo nahradila v roli Fénixe japonsko-česká herečka a tanečnice Marie Sawa, která přípravu v Praze i premiéru v Trenčíně zvládla výborně. Její výkon ocenili nejen aplaudující diváci, ale i kolegové, kteří jí samozřejmě velmi pomáhali. V publiku byli přítomni i účastníci nového mezinárodního festivalu.
+    
+    [fotky](https://www.facebook.com/media/set/?set=a.1422388422668758)
+
+    O den později, 1. června 2025, byl celý tým Icebreaking připraven předat umělecké poselství o sbližování početnému publiku na východě Slovenska. **Osmá repríza** byla naplánována v rámci závěrečného víkendu Města kultury Humenné 2024. Na Náměstí svobody v Humenném se před 15:30 hod. shromáždilo přibližně 250 zvědavých diváků. Dominovaly děti s rodiči, nechybělo ani několik ukrajinských uprchlíků. Slunečné počasí a krásné prostředí s humenským zámečkem v pozadí však v průběhu půl hodiny vystřídaly hrozivé bouřkové mraky a blesky se silným hřměním. Udeřily stále častěji a blíže. Když začaly padat velké a husté kapky deště, organizátoři se s koordinátorem týmu inscenace rozhodli představení přerušit z důvodu všeobecného ohrožení a vyzvali diváky, aby se ukryli na bezpečném místě. Po cca 25 minutách hraní se spustil prudký déšť, který publikum doslova rozehnal do svých domovů. Po další půlhodině lijáku bylo jasné, že show se dokončit už nepodaří, neboť déšť promočil kostýmy, vítr narušil scénu, techniku a zákulisí. Byla to první repríza, kterou vyšší moc bohužel nedovolila odehrát celou. Repríza se uskutečnila mimo plánované reprízy projektu Icebreaking.
+    
+    [fotky](https://www.facebook.com/media/set/?set=a.1422432262664374)
+
+    **Devátá repríza** se uskutečnila ve spolupráci s Divadlem Jozefa Gregora Tajovského ve Zvolenu. Do pěší zóny Náměstí SNP před budovu divadla přišlo v sobotu 28. června 2025 v 18:00 hod. asi 160 – 180 diváků všech věkových skupin. V příjemné podvečerní atmosféře se na show soustředilo vnímavé divadelní publikum, které potleskem (ne)pravidelně reagovalo nejen na jednotlivá artistická čísla, ale i na metafory a nuance příběhu o hledání nového domova. Performeři byli už skvěle sehraní a směleji vynikala i trvale alternující Marie Sawa. Byla to další vydařená repríza, po které tvůrci a interpreti poskytli i rozhovor do regionálního vysílání RTVS (Rozhlas a televize Slovenska).
+    
+    [fotky](https://www.facebook.com/media/set/?set=a.1422471262660474)
+
+    **Desátá repríza** byla součástí kulturního léta Města Banská Bystrica, ve kterém žije i početná ukrajinská diaspora. Performeři ji s chutí odehráli na trávě v klidném prostředí Parku pod Muzeem SNP, kde se v neděli odpoledne 29. června 2025 v 17:00 sešlo asi 150 – 170 převážně mladých diváků a rodičů s dětmi. Herci i diváci byli správně soustředěni a přes příběh cirkusáků – uprchlíků i vzájemně myšlenkově a hodnotově propojeni. Možná i díky tomu, že část publika tvořili místní aktivisté z občanské iniciativy NE V NAŠEM MĚSTĚ a jejich příznivci, kteří téma a cíl inscenace velmi dobře pochopili a interprety dlouhým závěrečným potleskem upřímně podpořili.
+    
+    [fotky](https://www.facebook.com/media/set/?set=a.1422477235993210)
+
+    Poslední dvě reprízy v Maďarsku organizačně zabezpečoval maďarský partner – MZSE / Firebirds team (HU). Podařilo se mu dohodnout účast na největším multižánrovém festivalu umění na maďarském venkově Művészetek Völgye Fesztivál (Valley of Arts). Na 34. ročníku, který se uskutečnil od 18. do 27. července 2025 na 96 různých lokalitách ve třech vesnicích nedaleko města Veszprém, se uskutečnilo téměř 2 000 programů, festival každoročně navštíví tisíce lidí.
+
+    **Jedenáctá repríza** mezinárodního týmu se uskutečnila v areálu hlavní scény festivalu Cirque du Tokert na konci obce Vigántpetend večer 21. července 2025 v 19:30 hod. před asi 100 sedícími nebo stojícími diváky. Představení však viděli i přicházející diváci na velký hlavní koncert populární maďarské zpěvačky Zsuzsy Koncz, který začal krátce po Circus Caravane. Mnozí z nich se u ní zastavili a zůstali až do konce, resp. sledovali představení z nedalekého vyvýšeného místa velkého hlediště hlavní scény festivalu.
+    
+    [fotky](https://www.facebook.com/media/set/?set=a.1438500617724205)
+
+    **Dvanáctou reprízu** zahrál tým Icebreaking během horkého letního odpoledne 22. července 2025 v 15:00 hod. ve sportovním areálu Taliándörögd Lőtér, kam přišlo pro horké počasí bohužel jen asi 45 – 50 diváků. Navzdory tomu všichni performeři odvedli velmi dynamické a energické profesionální výkony, kterými si získali publikum a sobě navzájem opět dokázali, že inscenaci hráli v týmovém duchu evropské spolupráce velmi rádi. S velkou chutí, lehkostí i neplánovanou improvizací opět vyprávěli příběh utíkajících cirkusáků, kteří nakonec našli místo pro svůj cirkus v Evropě.
+    
+    [fotky](https://www.facebook.com/media/set/?set=a.1438644904376443)
+
+    Tým Icebreaking odehrál celkem 12 repríz CIRCUS CARAVANA na různých místech ve 4 zemích EU pro přibližně 2700 – 2800 diváků.
+
+    Zaznamenal Ján Fakla, AND n.o
+
