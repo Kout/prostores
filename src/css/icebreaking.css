@@ -119,6 +119,16 @@
         }
     }
 
+    li {
+        &:has(> p + details) {
+            margin-bottom: 0.5lh;
+        }
+        
+        & > p:has(+ details) {
+            margin-bottom: 0;
+        }
+    }
+
     /* gallery */
 
     .gallery {
