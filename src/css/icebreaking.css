@@ -20,6 +20,11 @@
 
     /* calendar */
 
+    h2:has(+ dl) {
+        font-size: var(--size-3);
+        font-weight: var(--font-weight-6);
+    }
+
     dt {
         margin-block-end: var(--size-1);
         font-weight: var(--font-weight-6);

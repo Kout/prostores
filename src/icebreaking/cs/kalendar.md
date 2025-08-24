@@ -8,6 +8,8 @@ gallery: false
 
 # {{ title }}
 
+## 2023
+
 01 ICEBREAKING – RESEARCH
 : Sociálně inkluzivní aktivity s českými občany a ukrajinskou komunitou
 : <time datetime="2023-08-07">7.–10. 8. 2023</time> Praha, CZ
@@ -54,6 +56,8 @@ gallery: false
 : Webinář z výzkumu, workshopu a pilotu pouličního představení Human caravan
 : <time datetime="2023-10-26T18:00:00">26. 10. 2023</time> Online na MS Teams (program dle události na Facebooku)
 
+## 2024
+
 12 REZIDENCE I. SK
 : Tvůrčí proces zkoušení nového medzinárodního pouličního představení CIRCUS CARAVAN
 : <time datetime="2024-01-24">24.–28. 1. 2024</time>, Banská Štiavnica, SK
@@ -99,6 +103,8 @@ gallery: false
 22 CIRCUS CARAVANA – REPRÍZA 6, SK
 :   6. repríza mezinárodního pouličního vystoupení CIRCUS CARAVANA
 : <time datetime="2024-09-21">21. 9. 2024</time>, Banská Štiavnica, SK (Mezinárodní festival Amplión)
+
+## 2025
 
 23 CIRCUS CARAVANA – REPRÍZA 7, SK
 :   7. repríza mezinárodního pouličního vystoupení CIRCUS CARAVANA

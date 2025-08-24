@@ -8,6 +8,7 @@ gallery: false
 
 # {{ title }}
 
+## 2023
 
 01 ICEBREAKING – RESEARCH
 : Social-inclusive activities with Czech citizens and the Ukrainian community
@@ -53,6 +54,8 @@ gallery: false
 : Webinar from the research, workshop and pilot street performance HUMAN CARAVAN
 : <time datetime="2023-10-26T18:00:00">26. 10. 2023</time> Online via Teams (program according to Facebook event)
 
+## 2024
+
 12 RESIDENCY I. SK
 : The creative rehearsal process of the new international street performance CIRCUS CARAVAN
 : <time datetime="2024-01-24">24.–28. 1. 2024</time>, Banská Štiavnica, SK
@@ -97,6 +100,8 @@ gallery: false
 22 CIRCUS CARAVANA – RERUN 6, SK
 : Sixth rerun of the new international street performance CIRCUS CARAVANA
 : <time datetime="2024-09-21">21. 9. 2024</time>, Banská Štiavnica, SK (International AMPLIFIER Festival)
+
+## 2025
 
 23 CIRCUS CARAVANA – RERUN 7, SK
 : Seventh rerun of the new international street performance CIRCUS CARAVANA
