@@ -1,7 +1,7 @@
 ---
 layout: base.njk
-title: Human caravan
-equivalent: human-caravan
+title: Human caravana
+equivalent: human-caravana
 displayOrder: 6
 gallery: false
 ---

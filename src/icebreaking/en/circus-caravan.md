@@ -1,7 +1,7 @@
 ---
 layout: base.njk
-title: Circus caravan
-equivalent: circus-caravan
+title: Circus caravana
+equivalent: circus-caravana
 displayOrder: 7
 gallery: false
 ---
