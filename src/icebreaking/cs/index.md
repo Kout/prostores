@@ -8,8 +8,6 @@ eleventyExcludeFromCollections: true
 
 ## Divadlo sociální inkluze místních komunit V4 a uprchlíků z Ukrajiny
 
-### (Část 1: Lidská karavana V4)
-
 **Před námi** je něco neznámého.
 
 **Nedaleko** hoří válka.
