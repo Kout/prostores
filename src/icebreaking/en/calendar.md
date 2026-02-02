@@ -123,6 +123,6 @@ gallery: false
 : Eleventh rerun of the new international street performance CIRCUS CARAVANA
 : <time datetime="2025-07-21">21. 7. 2025</time>, Veszprém, HU (Valley of Arts Festival)
 
-28 CIRCUS CARAVANA – RERUN 12, HU
+28 CIRCUS CARAVANA – RERUN 12, HU (THE CLOSE)
 : Twelfth rerun of the new international street performance CIRCUS CARAVANA
-: <time datetime="2025-07-21">21. 7. 2025</time>, Veszprém, HU (Valley of Arts Festival)
+: <time datetime="2025-07-22">22. 7. 2025</time>, Veszprém, HU (Valley of Arts Festival)

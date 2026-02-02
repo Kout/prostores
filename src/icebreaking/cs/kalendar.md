@@ -126,6 +126,6 @@ gallery: false
 :   11. repríza mezinárodního pouličního vystoupení CIRCUS CARAVANA
 : <time datetime="2025-07-21">21. 7. 2025</time>, Veszprém, HU (Művészetek Völgye/Valley of Arts Festival)
 
-28 CIRCUS CARAVANA – REPRÍZA 12, HU
+28 CIRCUS CARAVANA – REPRÍZA 12, HU (DERNIÉRA)
 :   12. repríza mezinárodního pouličního vystoupení CIRCUS CARAVANA
-: <time datetime="2025-07-21">21. 7. 2025</time>, Veszprém, HU (VMűvészetek Völgye/alley of Arts Festival)
+: <time datetime="2025-07-22">22. 7. 2025</time>, Veszprém, HU (VMűvészetek Völgye/alley of Arts Festival)
