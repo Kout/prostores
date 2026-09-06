@@ -54,9 +54,14 @@ datová schránka: `iztbfat`
 
 ### Projekty, které aktuálně zastřešujeme
 
-
 - [![](/img/partners/krvik-totr-cz.png) Krvik Totr](https://krviktotr.cz)
 - [![](/img/partners/filtr.svg) Filtr](https://filtruj.cz)
+{.projects .list-unstyled}
+
+---
+
+### Projekty, které skončily
+
 - [![](/img/logo-icebreaking-A.png) Icebreaking](/icebreaking/cs/)
 {.projects .list-unstyled}
 
