@@ -37,7 +37,7 @@ IBAN: CZ31 2010 0000 0028 0255 6608
 
 Petr Jediný Novotný (předseda spolku)
 
-petr]štrůdl[<span>krviktotr.cz</span>
+petr@<span>krviktotr.cz</span>
 
 datová schránka: `iztbfat`
 
