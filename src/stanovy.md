@@ -22,8 +22,7 @@ Spolek vzniká dnem zápisu do spolkového rejstříku. V tento den nabývají t
 
 #### Čl. 2 <br> Účel spolku
 
-Spolek je samosprávná, dobrovolná, nepolitická a nezisková organizace založená za účelem naplňování
-společného zájmu, kterým je zejména umělecká, kulturní, pořadatelská, vzdělávací a publikační činnost na profesionální i neprofesionální úrovni.
+Spolek je samosprávná, dobrovolná, nepolitická a nezisková organizace založená za účelem naplňování společného zájmu, kterým je zejména umělecká, kulturní, pořadatelská, vzdělávací a publikační činnost na profesionální i neprofesionální úrovni.
 
 Spolek usiluje o podporu autorské umělecké tvorby a o spolupráci mezi profesionálními i neprofesionálními umělci.
 
@@ -37,10 +36,7 @@ Spolek usiluje o podporu autorské umělecké tvorby a o spolupráci mezi profes
 
 #### Čl. 4 <br> Členství ve spolku
 
-1. Členem spolku může být fyzická osoba starší 18 let i právnická osoba. Členství ve spolku vzniká na
-základě schválení písemné přihlášky členskou schůzí spolku, která o jeho přijetí rozhoduje na svém
-nejbližším zasedání. Prvními členy spolku se automaticky stávají osoby přítomné na ustavující schůzi
-spolku.
+1. Členem spolku může být fyzická osoba starší 18 let i právnická osoba. Členství ve spolku vzniká na základě schválení písemné přihlášky členskou schůzí spolku, která o jeho přijetí rozhoduje na svém nejbližším zasedání. Prvními členy spolku se automaticky stávají osoby přítomné na ustavující schůzi spolku.
 2. Členství se váže na osobu člena, je nepřevoditelné na jinou osobu a nepřechází na jeho právního nástupce.
 3. Člen spolku má právo:
 	1. účastnit se jednání členské schůze a podílet se na jejím rozhodování hlasováním,
@@ -57,10 +53,8 @@ spolku.
 	1. zánikem spolku nebo rozhodnutím členské schůze o jeho přeměně na jinou právní formu,
 	1. nezaplacením členských příspěvků do data vyhlášeného členskou schůzí, a to prvním dnem prodlení se zaplacením členských příspěvků,
 	1. vyloučením člena členskou schůzí.
-6. Seznam členů spolku je veřejný a je přístupný na internetových stránkách spolku. Zápis a výmazy v tomto seznamu provádí předseda při vzniku a zániku členství a dále při jakékoliv změně
-podstatných údajů.
-7. Veškeré vypořádání vůči členovi, kterému zaniklo členství, proběhne do tří měsíců od potvrzeného
-ukončení členství.
+6. Seznam členů spolku je veřejný a je přístupný na internetových stránkách spolku. Zápis a výmazy v tomto seznamu provádí předseda při vzniku a zániku členství a dále při jakékoliv změně podstatných údajů.
+7. Veškeré vypořádání vůči členovi, kterému zaniklo členství, proběhne do tří měsíců od potvrzeného ukončení členství.
 
 #### Čl. 5 <br> Orgány spolku
 

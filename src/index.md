@@ -23,7 +23,9 @@ Praha 6 – Vokovice
 
 IČ: 22604901
 
-Registrace u MV ČR: 26. 7. 2012, VS / 1-1 / 89590 / 12-R
+Nejsme plátci DPH.
+
+Spolek zapsaný ve spolkovém rejstříku u Městského soudu v Praze pod sp. zn. L 24611.
 
 [Výpis ze spolkového rejstříku](https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=761259&typ=PLATNY)
 
@@ -37,7 +39,7 @@ IBAN: CZ31 2010 0000 0028 0255 6608
 
 Petr Jediný Novotný (předseda spolku)
 
-petr@<span>krviktotr.cz</span>
+prostores.zs@gmail.com
 
 datová schránka: `iztbfat`
 
@@ -62,7 +64,7 @@ datová schránka: `iztbfat`
 
 ### Projekty, které skončily
 
-- [![](/img/logo-icebreaking-A.png) Icebreaking](/icebreaking/cs/)
+- [![](/img/logo-icebreaking-A.png) Icebreaking (2022–2025)](/icebreaking/cs/)
 {.projects .list-unstyled}
 
 ---
